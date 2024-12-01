@@ -1,0 +1,435 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "blocklist": [
+            {
+                "trigger": "*dualstatusbarmiui.zip",
+                "text": "Direct dsb sharing isn't allowed ! ",
+                "action_on": "document",
+                "action_mode": "tmute 6h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*dualstatusbar.zip",
+                "text": "Direct dsb sharing isn't allowed ! ",
+                "action_on": "document",
+                "action_mode": "tmute 6h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "lyb",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*tiktok.com*",
+                "text": "Mujra nehi karna yaha bc !",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*drive.google.com*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": false
+            },
+            {
+                "trigger": "*t.me/+*",
+                "text": "no crypto spams !",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*joinchat*",
+                "text": "No crypto!",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*@dualstatusbar.zip",
+                "text": "stop sharing direct dsb zips retard ",
+                "action_on": "document",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*@dualstatusbarmiui.zip",
+                "text": "stop sharing direct dsb zips retard ",
+                "action_on": "document",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*dsb*",
+                "text": "stop sharing direct dsb zips retard ",
+                "action_on": "document",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "rules": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "##",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CV2V1MAACksBi9f82D0MUliJL1DS2dFTi9hRgoAACaAYAAiOiqFeS46fdbsVJzx4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "#notes",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CV2V1MAAClYJjCOElDYhs6cOD-OT-x8csRuqwiwAC1QYAAultSFdjTYTE4xdo-x4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 7
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "90hz_not_working_esportsextreme",
+                "text": "(90HZ not showing) First click on 120 Hz, then on 90 Hz then it will be automatically 90 Hz in sometime",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CV2V1MAACYNRiBCBWBvQhb6y7pWpYjyTOjl9_VwACQgMAAujrKVQpnOLGIHsSih4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "90fps_fix_gladiatoros",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CV2V1MAACYPdiBCBsQypjZqC18arTO6VWsAeETQACKQMAAu8jUFbUmqGNlE2fuB4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "90_fps_module",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYPxiBCB1teJKMKENIN6FKCJXyCchGAACLwYAAjPLmFZgC1H5LNdt2B4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "all_rom_link",
+                "text": "Visit our Website For Updates\n\nAll ROM \ud83d\udc49 [GladiatorOS](https://gladiatoros.blogspot.com/)",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CV2V1MAACYQFiBCCABcD7loAlrORYfDnRRf2wswACuAIAAtiCSVYD4WorUcGgIx4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "best_rom",
+                "text": "https://youtube.com/shorts/LNEIlTcSGtY?feature=share",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "dsb",
+                "text": "Dynamic Dual Status Bar for MIUI Gladiator 21.9.5 Poco X3 Pro\n\nAndroid Version - 11\n\nFeatures:\n- Left DSB for dynamic clock with add-ons support (check #addons on our group)\n- Right DSB for dynamic network meter and battery icon\n- Perfect portrait and landscape mode\n- Inbuilt notch killer and different statusbar heights (Can be enabled from devloper options/display cutout )\n- Icons can now go up to extreme corners \n- Padding above statusbar (Top padding) is set as smallest (no gaps there!) \n\nHow to use?\nFlash in magisk and reboot, that's it :)\n\nAny suggestions, bugs ?\nReport here ,\nSupport group : @MiuiDSB_Support\nChannel : @DualstatusbarMIUI",
+                "btn_url": "[Download](buttonurl://https://www.pling.com/p/1532047/)",
+                "file_id": "AgACAgUAAx0CV2V1MAACYQxiBCC2yRi51X3qLVtj1pH8fNK-lQACNa0xG-Av0VV6JNcUV0t5vQAIAQADAgADeAAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "fw_vayu_global_miui_v12.0.4.0.rjumixm",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYRFiBCDAnMSL3ZEsNCAFDPGyrOhCwAAC-QMAAvUKiFXDhWZVoeV1eR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "fw_vayu_global_miui_v12.5.2.0.rjumixm",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYRZiBCDJTGTKIHnVy1Q1FOCrD7fHewAC_gMAAvUKiFXWdGhXAkoPFh4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "fw_vayu_global_miui_v12.5.3.0.rjumixm",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYRtiBCDbsKaqIlC046ILsBNl5iWtwQAC-gMAAvUKiFXa64zhliYeOB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "how_to_flash",
+                "text": "Go to recovery \n\nWipe delvik/art caches, data , metadata, caches \n\nThen flash rom \n\nThen go to wipe format Data done\n\nReboot to system",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "low_mic_fix",
+                "text": "* Those  who are facing low mic volume issue in gladiator OS , turnoff voice match (Hey Google) and mic permission for Google App *",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "magisk_23.0.apk",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYSxiBCEGNgfdB0dJ7rVf9MMWa5TOWQAC_wMAAvUKiFVE4jNaUbWo0x4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "magiskhide_prop",
+                "text": "SAFETY NET PASS:-\n! HIDE MAGISK \n! Install Props Module Then Go To Termux and type:-\n`su -c props`\n\nThen select options as follows:-\n1\nf\n22 (Poco)\nFind pocox3pro (13)\ny\ny\nAutomatically reboot once now check safetynet",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYTFiBCEPUnD-virju7juFwHedW2W4gACogQAAoS72VYpD1yAn_oHix4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "scorpion_thermal_v1(x3pro)",
+                "text": "Scorpion thermal V1 For POCO X3 PRO Flash in Magisk",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACYTZiBCEYXDCBiErfJmtzFwaTFXKoMwAC5AIAAoM2cVWBC1kXgNq6Ox4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "14"
+            },
+            {
+                "trigger": "updatesystemapps",
+                "text": "@MiuiSystemUpdates",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "15"
+            },
+            {
+                "trigger": "youtube_channel",
+                "text": "Join Our YouTube channel \n\nFor more Updates \ud83d\udd25\n\nhttps://m.youtube.com/channel/UCfkk6KSX40PpPvqBTHFcigA",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CV2V1MAACYUBiBCEtPzsqTedvOsKNTah4H7JDiwACuqoxGxlw8VQnLX7QCV-9TAAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "16"
+            },
+            {
+                "trigger": "recovery_x3pro",
+                "text": "https://www.androidfilehost.com/?w=files&flid=324966",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "17"
+            },
+            {
+                "trigger": "magisk-25.1.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACjg9izTHRbYq53EjMrbWO4nKuts-_bQAC8AUAAoOKuVXwj6zbjNOb6R4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "18"
+            },
+            {
+                "trigger": "safetynet+banking_25.2above",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CV2V1MAACjsRi0ljWFbx_Og9lIcoIICnzWUIRPAACiwYAAo0ZmVaiTs-aWQwo5R4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "19"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captcharules": true,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "captchakick": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [
+            "yoy"
+        ],
+        "rules": "1. Be respectful to everyone.\n2. Don't be toxic .\n3. Help eachother.\n4. Offtopic little bit allowed.\n5. No Adultary material  (stickers allowed make  sure nobody got offended ).\n6. Dont use any Adultary  18+ stickers.\n7. Do not ask stuffs about any other Roms and paid rom.\n8. Do not spam else get mute by rose didi.\n9. Do not ask stupid questions.\n10. No promotion of any sort, feel free to use to \"/report\" command to report spammers.\n11. Do not share fake information.\n12. No ETA\n13. Don't ask for \"best\", use different combo and get best of it.\n14. Disrespect to anyone may lead to warn or ban as per the situation.\n15. Hinglish is allowed.",
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ]
+    }
+}

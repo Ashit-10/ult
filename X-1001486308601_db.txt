@@ -1,0 +1,448 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [
+            5093381173,
+            5222574470
+        ],
+        "blocklist": [
+            {
+                "trigger": "*.zip",
+                "text": "fuk off You kutta",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "china",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "ios",
+                "text": " {superfban}",
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "test",
+                "text": "Test ",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 1678570688,
+            "status": "on"
+        },
+        "captchamode": "text",
+        "dont_mention_admins": [],
+        "chat_members": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": false,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": false,
+            "purge": true,
+            "report": true,
+            "rules": false,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": false,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "best admin?",
+                    "text": "Gonzalo \ud83d\ude0e",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "pling issue",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgEAAx0CWJdE-QABAXY5YjJK8HrF6VtTF77DYSr0PGU41L8AAsMCAAIQC5BFEpSx1w_K7k0eBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "miuisystemui.apk",
+                    "text": "Bhaag madarchod",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "when ultron",
+                    "text": "Never bitch",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "miui bug",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CgACAgUAAx0CWJdE-QABAbHjYm0JupvFuf9RTagMTaj1SSsJrkIAAlkDAAIdxrFUQKN6OoUluIQeBA",
+                    "action_on": "text",
+                    "typee": 6,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "@jai_08",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CWJdE-QABAbs1Yngd3KtP5zSuNFDFTRHRKZHOQmQAAvQDAAKvz8lX9UbsmkoV-MQeBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": ".alive",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CWJdE-QABAfflYwABxvQNcmZsXF2ApWQ7JoC4WteGAALKAQAC77YjLINfOOeYSCcEHgQ",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "##",
+                    "text": "\ud83c\udff3\u200d\ud83c\udf08",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "##download",
+                    "text": "Device specific - \nhttps://t.me/DualstatusbarDSB/8\n\nGeneral module -\nhttps://t.me/DualstatusbarDSB/68",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/test hi",
+                    "text": "triggered",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": true,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": true,
+            "forward_from_channel": false,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": true,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 72351744,
+            "video": 0
+        },
+        "max_warns": 50,
+        "notes": [
+            {
+                "trigger": "memes",
+                "text": "https://t.me/c/1486308601/104556",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "ads",
+                "text": "https://telega.io/webmaster#popup_sign_up",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "movies",
+                "text": "**Follow the below channels for all new movie/TV show updates **\n\nThese channels are updated daily. \nThese are private channels and invite links could be changed soon. \n\nFollow Main channel @HD10TV & @TVmoviesHD for updates \n\nKindly join and support us by sharing with your friends \n\n\n\n",
+                "btn_url": "[English Movies](buttonurl://https://t.me/+c-jS2x6YNEE0NzI1)[Hindi Movies](buttonurl://https://t.me/+bqpiqVoftEQ5NzNl)[TV Series](buttonurl://https://t.me/+oVZyLiswML40MDdl)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "apktool_x",
+                "text": "flash in magisk\nAfter flashing:-\n`apktool`\n`apktool_x`",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CWJdE-QABAf5GYwpBIlr_mByJAeRdVn8ZTN4cN9AAAkoCAALs2jFVBHH9NZcusqEeBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "java_clock_png",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgEAAx0CWJdE-QABAg4QYxtYpYePjEXTd5SvU_iHILc9W2gAAkICAAIDXyFEy7lZSgdm6BgeBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "a10-bootloopfix",
+                "text": null,
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CWJdE-QAC1hZjTWHdZUZNh_2g4PTerZIE7dfpDAACR7AxG9eQiFbY7snoJXfNtgAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "termux_issue",
+                "text": "https://t.me/dualstatusbar/258992",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "changelogs",
+                "text": "Dsb modules -\nOld - idk\n6.5 stable advanced styles\n6.9 full A12L Support and fixes and new styles\n7.0 beta A13 Support\n7.1 full A13 Support and rock stable \n7.2 added support to merged with A13 systemui patcher / subs modules\n7.5 added kernel su support and auto SystemUI path detection",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "gdrive_link_fix",
+                "text": "Use folderview?id=\nInstead of drive/folders\n[Example here](https://t.me/c/1486308601/89228)",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "new_xmls",
+                "text": "mm_mouth3 = $$face_dialog_dark_to_error__10__1\nmm_mouth4 = $$face_dialog_dark_to_error__11__1\nmm_mouth2 = $$face_dialog_dark_to_error__12__1\nmm_mouth1 = $$face_dialog_dark_to_error__13__1",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "q",
+                "text": ">quote",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "test",
+                "text": "Hello {mention} \ud83d\ude07\nYour module was generated successfully \u2705\n\nUploaded under:\n>Folder number 27\nNamed as:\n>68720@dualstatusbar.zip\n\nYou can use @dsbaddons to customize its style, colours, and more!\n\n",
+                "btn_url": "[Download](buttonurl://https://www.pling.com/p/2125331/)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "opencvfix",
+                "text": "sudo apt-get update && sudo apt-get install libgl1",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "vps_ram",
+                "text": "# free -m | grep Mem | awk '{print \"Total RAM: \" $2 \" MB\\nFree RAM: \" $4 \" MB\"}'",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "14"
+            },
+            {
+                "trigger": "free-tv",
+                "text": "https://t.me/c/1486308601/164246",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "15"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": true,
+            "captcha": false,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "captchakick": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": false
+        },
+        "pass_words": [],
+        "rules": null,
+        "warn_action": "ban",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": null,
+                "btn_url": null,
+                "file_id": "CAACAgUAAx0CWJdE-QABAWL5YiedDNEiYixws8kv1f7Cjbuo_WYAAjcEAAI83_FVcTRZDGb6QfkeBA",
+                "typee": 1,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

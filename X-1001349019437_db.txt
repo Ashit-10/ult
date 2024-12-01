@@ -1,0 +1,129 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "blocklist": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": false,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "t",
+                    "text": "The old Terminal Emulator is dead now, and doesn't work properly. We suggest to use Termux instead\n\n ",
+                    "btn_url": "[Download Termux](buttonurl://https://t.me/dsbaddons/148)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": true
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "captchakick": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ]
+    }
+}

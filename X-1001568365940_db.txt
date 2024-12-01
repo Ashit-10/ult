@@ -1,0 +1,262 @@
+{
+    "2114146261": {
+        "2nd_welcome": [
+            {
+                "text": null,
+                "btn_url": null,
+                "file_id": "CAACAgUAAx0CXXtddAABAWtyYk3YOAa_dqpbEzFgsa-5v8FGpU0AAlkFAAL_D9BXlbrCo5StI6geBA",
+                "typee": 1,
+                "disable_link_preview": true
+            }
+        ],
+        "advancedblocklist": [],
+        "approved_channels_and_users": [
+            210944655,
+            1190261284
+        ],
+        "blocklist": [],
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": false,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": false,
+            "filters": true,
+            "greetings": true,
+            "id": true,
+            "info": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "nsfw_check": true,
+            "pin_unpin": true,
+            "ping": true,
+            "promote_demote": true,
+            "purge": true,
+            "raid": true,
+            "report": true,
+            "rules": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "kimcy",
+                "text": "`Best Gaming Screen Recorder I'm using !!!`",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0EXXtddAABAU28Yj65ti_YphJrQumbvDiNS6lQkDsAAj8FAAJQevlVCKB0uKwch6ceBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "screen-recorder",
+                "text": "Smoothest and best for Gaming, also internal and mic record option (Android 10-13)\nBest screen recorder till now",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CXXtddAABAU3zYj67BHti7k6RCDjedzQU38yGiCEAAkkFAAJQevlVfSsPqIwRTF0eBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "fps-unlocker",
+                "text": "PUBGM & BGMI 90FPS UNLOCKER !!!\nADDED ONEPLUS 8 PRO CPU & GPU TWEAKS ( WON'T CONFLICT WITH ANY OTHER MODULES ) & TOUCH RESPONSE ( REMOVE TOUCH MODULES FOR BETTER RESPONSE )\n\n`\u00a9NotShantonuYT`",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CXXtddAABAVECYkBgCVFsDA1184KonAXkLWD83ycAAqUEAALypgFWKL0z7qjw0dseBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "aim-assist-module",
+                "text": "**PUBGM / BGMI BULLET REGISTRATION FIX V1**\n**__(RE-BASED ON BULLET FIX V4.1 BY ABRAR)**__\n\nFLASH IN MAGISK AND INSTALL iCompass and Mi Compass apk and you're good to go !\n\nExperimentally fixes Bullet Registration of your Rom !\nSupports Android 10 & Android 11 Only !!\nThis module do not change Game files, it tweaks Rom stuffs for better bullet registration !\n(**MAGISK 22/23** **RECOMMENDED**)",
+                "btn_url": "[OSS V1](buttonurl://https://t.me/ShanTonuYT/87162)[MASTER V1.1](buttonurl://https://t.me/ShanTonuYT/87503)[iCompass](buttonurl://https://t.me/ShanTonuYT/87164)[Mi Compass](buttonurl://https://t.me/ShanTonuYT/87163)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "proper-throttling-test",
+                "text": "Proper POCO X3 Pro thermal zone configuration for CPU throttling test.\nMind that other phone will have different numbers.",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CXXtddAABAWb2YkvvClDrbCW_LZQbOTjyv2zG1PoAAq2tMRuDMlBVVKTWeS8WMk0ACAEAAwIAA3kABx4E",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "best-gaming-lavender",
+                "text": "Gaming Combo only for Redmi Note 7/7S (lavender) for my Subscribers!!!\n\n__**ANDROID 10__** :-\n\n1. Use crDroid 6.9 Gaming Build by Abrar Mahmud for Extreme Gaming (will drain more battery than other roms) with bEast HMP V3B5.4 kernel\n\n2. Use Reloaded CAF for Extreme Gaming + Battery Backup, as we all know that CAF roms are highly optimized for SnapDragon SOC's ! use with Nobita Kernel HMP 2.8 66hz with this, Game runs like fluid water !\n\n3.Use Corvus 4.7 with bEast HMP V2B2 Kernel / Corona Kernel in it. Use it for Gaming + Battery backup !\n\n**__MiUi**__ :-\n\nUse MiUi Dream Project V1 with neXus v8 HMP and Am Project v7 Module and OpenGL 1.0 Module. This is the best Gaming MiUi Rom ever.\n2nd build of this rom is coming soon...\n\n__**Android 11__** :-\n\nBanana Droid V5 Official with neXus Xtreme EAS for OP Gaming Result !!\n\n**NOTE: ALL ROMS ARE VANILLA (EXCEPT MIUIDP), SO FLASH GAPPS TO GET PLAY STORE**\nTo get GApps, Type #Gapps\nLinks of all Roms, Kernels and Magisk Modules which are mentioned above is below :-",
+                "btn_url": "[Reloaded CAF 0914](buttonurl://https://drive.google.com/uc?id=1UDOVioo8ZbjxFTLfS3VWleuZONvZ9Wfh&export=download)[Corvus 4.7](buttonurl://https://drive.google.com/uc?id=1zQcGz1qgkYukPXxVzmr-04YOmfxWRbCi&export=download)[MiUi Dream Project V1](buttonurl://https://t.me/ShanTonuYT/4877)[Corona Kernel](buttonurl://https://t.me/ShanTonuYT/1435?single)[Banana Droid V5](buttonurl://https://drive.google.com/uc?id=1dkDSY23LLlkOJboWepXEfZEjX6Ksw9XA&export=download)[bEast HMP V3B5.4 Kernel](buttonurl://https://t.me/ShanTonuYT/3727)[Nobita Kernel 2.8 HMP Kernel](buttonurl://https://t.me/ShanTonuYT/23759)[bEast HMP V2B2 Kernel](buttonurl://https://t.me/ShanTonuYT/1436?single)[Corona Kernel](buttonurl://https://t.me/ShanTonuYT/1435?single)[neXus HMP V8 Kernel](buttonurl://https://t.me/ShanTonuYT/2069)[neXus Xtreme EAS V1 Kernel](buttonurl://https://t.me/ShanTonuYT/23760)[10.3.5.0 Firmware](buttonurl://https://t.me/ShanTonuYT/16473)[12.5.1.0 Firmware](buttonurl://https://t.me/ShanTonuYT/16474)[AM Project V7 Module](buttonurl://https://t.me/ShanTonuYT/23764)[OpenGL 1.0 Module](buttonurl://https://t.me/ShanTonuYT/23749)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "anx",
+                "text": "ANX Camera",
+                "btn_url": "[Camera Zip](buttonurl://https://t.me/ShanTonuYT/103246?single)[Dtbo](buttonurl://https://t.me/ShanTonuYT/103247?single)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "ping-stabilizer",
+                "text": "BEST PING STABILIZER RIGHT NOW IN WHOLE TELEGRAM !! ADDED MORE TWEAKS FOR MORE STABLE PING ( IT DOESN'T INCREASES / DECREASES NETWORK SPEED OF YOUR INTERNET, IT JUST STABLES YOUR GAME PING )\n\n\u00a9NotShantonuYT",
+                "btn_url": "[Download Link](buttonurl://http://xpshort.com/waYmPEf)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "amoled-colour",
+                "text": "**This will change your display colour to AMOLED VIVID colour, Now your display will look like AMOLED panel but not AMOLED ! Also need ROM and Kernel KCAL support. Donot flash any other KCAL with this !**",
+                "btn_url": "[Download](buttonurl://https://xpshort.com/0RuEyAp)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "gaming-combo-pocox3pro",
+                "text": "\u2764\ufe0f `SUGGESTED ROM FOR HARDCORE GAMING IN POCO X3 PRO (VAYU/BHIMA) WITH KERNEL AND MODULE, RECOVERY COMBO` \u2764\ufe0f\n\n**READ FULL DESCRIPTION OF ROMS FOR LINKS AND KERNEL, MODULE COMBO !**\n\n__**\ud835\udc0c\ud835\udc22\ud835\udc27\ud835\udc1d \ud835\udc22\ud835\udc2d, \ud835\udc0f\ud835\udc0e\ud835\udc02\ud835\udc0e \ud835\udc17\ud835\udfd1 \ud835\udc0f\ud835\udc2b\ud835\udc28 \ud835\udc21\ud835\udc1a\ud835\udc2c \ud835\udc2c\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc28\ud835\udc2e\ud835\udc2c \ud835\udc0c\ud835\udc28\ud835\udc2d\ud835\udc21\ud835\udc1e\ud835\udc2b\ud835\udc1b\ud835\udc28\ud835\udc1a\ud835\udc2b\ud835\udc1d \ud835\udc0f\ud835\udc0c\ud835\udc08\ud835\udc02 \ud835\udc22\ud835\udc2c\ud835\udc2c\ud835\udc2e\ud835\udc1e\ud835\udc2c, \ud835\udc2c\ud835\udc28 \ud835\udc22\ud835\udc1f \ud835\udc32\ud835\udc28\ud835\udc2e\ud835\udc2b \ud835\udc1d\ud835\udc1e\ud835\udc2f\ud835\udc22\ud835\udc1c\ud835\udc1e \ud835\udc20\ud835\udc1e\ud835\udc2d\ud835\udc2c \ud835\udc01\ud835\udc11\ud835\udc08\ud835\udc02\ud835\udc0a\ud835\udc04\ud835\udc03, \ud835\udc30\ud835\udc1e \ud835\udc1a\ud835\udc2b\ud835\udc1e \ud835\udc27\ud835\udc28\ud835\udc2d \ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc29\ud835\udc28\ud835\udc27\ud835\udc2c\ud835\udc22\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc2d\ud835\udc21\ud835\udc1a\ud835\udc2d !!!__**",
+                "btn_url": "[Paranoid Android ROM](buttonurl://https://t.me/ShanTonuYT/22201)[EvolutionX 5.9.3 ROM](buttonurl://https://t.me/ShanTonuYT/23767)[GladiatorOS Nightmare-V2](buttonurl://https://t.me/ShanTonuYT/83693)[MiUiPro 21.11.11](buttonurl://https://t.me/ShanTonuYT/117647)[GladiatorOS Mark-1](buttonurl://https://t.me/ShanTonuYT/35383)[GladiatorOS Mark-2](buttonurl://https://t.me/ShanTonuYT/79833)[GladiatorOS Mark-3](buttonurl://https://t.me/ShanTonuYT/108862)[GladiatorOS Mark-4](buttonurl://https://t.me/ShanTonuYT/126199)[LYB X KangarooX Kernel](buttonurl://https://t.me/ShanTonuYT/95597)[LYB X KangarooX Tmod V2 Kernel](buttonurl://https://t.me/ShanTonuYT/104834)[LYB x NGK TMOD V3 Kernel](buttonurl://https://t.me/ShanTonuYT/119215)[ORANGEFOX RECOVERY \ud83c\udf4a\ud83e\udd8a](buttonurl://http://xpshort.com/sakaCX)[GCam's](buttonurl://https://t.me/ShanTonuYT/54567)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "rom-flashing-guide",
+                "text": "1. Reboot to Recovery\n2. Wipe Dalvik/Art-Cache, Cache, System, Vendor, Data (F1, RN7 and old xiaomi devices) . Wipe Dalvik,Cache,Data,Metadata (X3P,RN10P and newer Mi devices)\n3. Flash fw(if aosp rom), Rom, Gapps (if vanilla rom), Dfe/Magisk/Format Data\n4. Reboot to System",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "battery-health-check",
+                "text": "Download Termux apk from Play Store.\ntype su for root permission, grant root permission !\nThen type \ud83d\udc47\n\n`cat /sys/class/power_supply/battery/charge_full`\n\nclick enter, it will show some numbers.\n\n**how to know how much % health I have?**\nfor example, My one shows 28160000 which means 2816mAh is maximum for my battery currently.\ngo to calculator and type 100/<your battery mah (written on the device box/search on GSMarena)> x <your battery mAh showing on termux>\n\n**--example:**--\n100/2800x2816 = 100.57, which means my bh is 100.57%\n(Your battery health can show more than estimated cause some batteries comes with 10/20/30 mAh more from the factory but written a simple ammount like 2800mAh but mine has 2830mAh, so it is normal)\n\n--**Note:--**\n\u2022 You should calibrate your battery first, then check battery health. Cause after calibrating your battery, the results will be 99.99% accurate !\nType `#battery-calibration` on my channel to get battery calibration steps and tips !",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "kinemaster-premium",
+                "text": "\ud83e\uddec   **--KineMaster Premium**--   \ud83e\uddec\n\n\ud83e\uddec __**Version :__** 6.1.7.27418`.GP (__Best)`(NEW)__\n\n**\ud83e\ude84 (Export Fixed Fully !!)**\n\n__**NOW__:**-\n\n\ud83d\ude80 No Export Problem\n\ud83d\ude80 No Auto Back Problem\n\ud83d\ude80 No Ads\n\ud83d\ude80 4k Export Support\n\ud83d\ude80 Audio Desync Fixed\n\ud83d\ude80 Link Updated !!!\n\n\u2b50\ufe0f Android 6-13 Support\n\n\u2764\ufe0f Specially for ShanTonuYT Family \u2764\ufe0f\n\n\ud83d\udce9    [\ud83c\udde9\u200b\u200b\u200b\u200b\u200b\ud83c\uddf4\u200b\u200b\u200b\u200b\u200b\ud83c\uddfc\u200b\u200b\u200b\u200b\u200b\ud83c\uddf3\u200b\u200b\u200b\u200b\u200b\ud83c\uddf1\u200b\u200b\u200b\u200b\u200b\ud83c\uddf4\u200b\u200b\u200b\u200b\u200b\ud83c\udde6\u200b\u200b\u200b\u200b\ud83c\udde9](https://techymozo.com/mkIX)   \ud83d\udce9",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captchakick": false,
+            "captcharules": false,
+            "cleanwelcome": true,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "rules": "**The rules for `**\ud835\ude4e\ud835\ude43\ud835\ude3c\ud835\ude49\ud835\ude4f\ud835\ude4a\ud835\ude49\ud835\ude50 \ud835\ude54\ud835\ude4f \ud835\ude41\ud835\ude3c\ud835\ude48\ud835\ude44\ud835\ude47\ud835\ude54 \ud83c\udde7\ud83c\udde9` **are:**\n\n**The rules for** `\ud835\ude4e\ud835\ude43\ud835\ude3c\ud835\ude49\ud835\ude4f\ud835\ude4a\ud835\ude49\ud835\ude50 \ud835\ude54\ud835\ude4f \ud835\ude41\ud835\ude3c\ud835\ude48\ud835\ude44\ud835\ude47\ud835\ude54 \ud83e\udd0d\ud83c\udde7\ud83c\udde9` **are:**\n\n1. No toxicity please\n2. Don't be Rude to other members, act good with others.\n3. Don't spam Admins or will get warned.\n4. Don't use slangs.\n5. ONLY ENGLISH PLEASE, NO OTHER LANGUAGES ALLOWED\n6. **Always ask help by mentioning your DEVICE CODENAME AND MODEL NAME, LIKE: POCO F1 (BERYLLIUM)**\n7. Don't disrespect others.\n8. Never Ask For Promotion, for promotion, dm Admin. If he allows, then he'll post/comment. Don't post by yourself",
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "text": "\u250f\u2501\u2501\u2533\u2513\u250f\u2533\u2501\u2501\u2533\u2501\u2533\u2533\u2501\u2501\u2533\u2501\u2533\u2501\u2533\u2533\u2533\u2513\n\u2503\u2501\u2501\u252b\u2517\u251b\u2503\u250f\u2513\u2503\u2503\u2503\u2523\u2513\u250f\u252b\u2503\u2503\u2503\u2503\u2503\u2503\u2503\n\u2523\u2501\u2501\u2503\u250f\u2513\u2503\u2523\u252b\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\u2503\n\u2517\u2501\u2501\u253b\u251b\u2517\u253b\u251b\u2517\u253b\u253b\u2501\u251b\u2517\u251b\u2517\u2501\u253b\u253b\u2501\u253b\u2501\u251b\n\u256d\u2501\u2533\u2533\u2501\u2501\u256e\u256d\u2501\u2501\u256e\u2571\u2571\u2571\u2571\u256d\u256e\n\u2570\u256e\u2503\u2523\u256e\u256d\u256f\u2503\u2501\u2533\u253b\u256e\u256d\u2501\u2501\u254b\u254b\u256e\u256d\u2533\u256e\n\u256d\u253b\u256e\u2503\u2503\u2503\u2571\u2503\u256d\u252b\u254b\u2570\u252b\u2503\u2503\u2503\u2503\u2570\u252b\u2503\u2503\n\u2570\u2501\u2501\u256f\u2570\u256f\u2571\u2570\u256f\u2570\u2501\u2501\u253b\u253b\u253b\u253b\u253b\u2501\u254b\u256e\u2503\n\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2571\u2570\u2501\u256f\n\n\n\u2588\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2588\n\u2588\u2591\u2591\u2566\u2500\u2566\u2554\u2557\u2566\u2500\u2554\u2557\u2554\u2557\u2554\u2566\u2557\u2554\u2557\u2591\u2591\u2588\n\u2588\u2591\u2591\u2551\u2551\u2551\u2560\u2500\u2551\u2500\u2551\u2500\u2551\u2551\u2551\u2551\u2551\u2560\u2500\u2591\u2591\u2588\n\u2588\u2591\u2591\u255a\u2569\u255d\u255a\u255d\u255a\u255d\u255a\u255d\u255a\u255d\u2569\u2500\u2569\u255a\u255d\u2591\u2591\u2588\n\u2588\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2584\u2588\n\n\n\u2500\u2584\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2580\u2584\n\u2588\u2591\u2591\u2591\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2584\u2584\u2591\u2588\u2588\u2591\u2588\n\u2588\u2591\u2580\u2580\u2588\u2580\u2580\u2591\u2584\u2580\u2591\u2584\u2580\u2591\u2591\u2580\u2580\u2591\u2584\u2584\u2591\u2588\n\u2588\u2591\u2591\u2591\u2580\u2591\u2591\u2591\u2584\u2584\u2584\u2584\u2584\u2591\u2591\u2588\u2588\u2591\u2580\u2580\u2591\u2588\n\u2500\u2580\u2584\u2584\u2584\u2584\u2584\u2580\u2500\u2500\u2500\u2500\u2500\u2580\u2584\u2584\u2584\u2584\u2584\u2584\u2580\n\n\n\u4e97\u2502User ID: \u261e  {id}\n\u4e97\u2502UserName: \u261e {mention}\n\u4e97\u2502READ RULES MUST: \u261e /rules\n\u4e97\u2502Get Notes by: \u261e /notes\n\n\u4e97\u2502Hope You Will love To Stay\n\u4e97\u2502Greetings from NotShantonuYT",
+                "btn_url": "[\ud835\ude45\ud835\ude4a\ud835\ude44\ud835\ude49 \ud835\ude4a\ud835\ude50\ud835\ude4d \ud835\ude54\ud835\ude4a\ud835\ude50\ud835\ude4f\ud835\ude50\ud835\ude3d\ud835\ude40 \ud835\ude3e\ud835\ude43\ud835\ude3c\ud835\ude49\ud835\ude49\ud835\ude40\ud835\ude47](buttonurl://https://youtube.com/channel/UCVBoz6PxT47ucjViY_DETVA)",
+                "file_id": "AgACAgUAAx0CXXtddAABAb7DYn1EXSPTz6Ot47ZycUMo2SNLW-sAAtmtMRtmIAFU9xxm6wewszQACAEAAwIAA3gABx4E",
+                "typee": 2,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

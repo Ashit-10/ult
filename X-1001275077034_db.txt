@@ -1,0 +1,138 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "blocklist": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "captchamode": "text",
+        "dont_mention_admins": [],
+        "chat_members": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "rom_list",
+                "text": "currently i maintain:\n\nnothing [ life is good now ]",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "parallax_kernel",
+                "text": "#Parallax #Kernel #R #S #RMX1921 \n**Parallax Kernel r2 | Android 11/12.\nUpdated:** 31_/12/'21_\n\n[\u25aa\ufe0fDownload [13 MB]](https://github.com/dakkshesh07/parallax_kernel_realme_rmx1921/releases/tag/r2)\n[\u25aa\ufe0fSupport\u25aa\ufe0f[](https://t.me/ParallaxSupport_XT)Changelogs](https://telegra.ph/Parallax-Kernel-r2-for-RealmeXT-RMX1921-12-31)\n\n**Kernel Features:\n- Not made by a so called blind picking dev who doesn't even have \"time\" to tune slmk\n- Compiled with latest bleeding edge clang (Neutron Clang 14)\n- Compiled with Full LTO, Polly, Relr optimizations and LLD\n- Fully de-bloated from OPPO and Realme crap\n- Fluent smooth user experience\n- Latest CAF tag merged\n- Disabled many debug and tracing crap\n- Various File system optimizations\n- Minimal Boosting for better performance without losing much battery\n- Spam free logs and dmesg\n- Various useful backports\n- Optimized touch drivers\n- Optimized FOD drivers\n- Latest Wiregaurd\n- LSE Atomics\n- Power efficient work queues \n- and many many more!\n- Tuned for best performance and battery backup !\n\nBy** @constcoccinelle \n**Follow** @RealmeXT\n**Join** @RealmeXTofficial",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CTAABIaoAAiAyYgvtER6Yy6CnO4HlrYWL-PfpHg8AAuiuMRsPcHBWz9LYsbShH10ACAEAAwIAA3kABx4E",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "captchakick": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "text": "Sup, {username} ,\nHave a great stay!",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": "Hey , {username} !!\nWelcome to Parallax support chat..\n\nFor parallax kernel and custom roms By Dakkshesh :)\n\nHave a great day \ud83d\ude0a",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CTAABIaoAAiAqYgvs5K0qAsa-QL6l_nWkrKfCw4gAAvsBAAJaoKBXvpLqM3F_OJkeBA",
+                "typee": 4,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

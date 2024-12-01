@@ -1,0 +1,239 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "blocklist": [],
+        "captchamode": "button",
+        "chat_members": [
+            2003361792
+        ],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": false,
+            "filters": true,
+            "greetings": true,
+            "id": true,
+            "info": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "nsfw_check": true,
+            "pin_unpin": true,
+            "ping": true,
+            "promote_demote": true,
+            "purge": true,
+            "raid": true,
+            "report": true,
+            "rules": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "arcana",
+                "text": "#ROM #Arcana #Unofficial #Lemonkebab \n**Project Arcana | Android 12L | LemonKebab**\n**Updated : 16.04.22**\n\n\n\u2022 Initial Build\n\u2022 With GApps\n\n**Download:** [Here](https://drive.google.com/file/d/1U1e_cwBNHf8ZZnnuarEsH5Bm6pqwwjiq/view?usp=sharing)\n\n**By:** **@jaat4u**\n**Support:** **@bleedbotsupport**",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CVH2-iAACAaJi8T6NaTsshsNO5zj_XuFrreNWcgACzLExG6bS0VYjgvhHCwvkZgAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "arrow",
+                "text": "#Arrow #Unofficial #S #Kebab #Lemonades\n**ArrowOS 12 - Unofficial | Android 12L\nUpdated:** 02/08/22\n\n\u25aa\ufe0f [Download](https://drive.google.com/file/d/1PLY01aaRt56FlKG7hbWucl1sn5aM9Don/view?usp=sharing)\n\u25aa\ufe0f [Screenshots](https://drive.google.com/drive/folders/1-xjMzQ5dHx4vZQaDeeYuk2dOTe-BaSY9)\n\u25aa\ufe0f [Support](https://t.me/ArcturusKernel)\n\n\n**Changelog:**\n\u2022 [Source Changelog](https://arrowos.net/changelog.php)\n\n**Notes:**\n\u2022 **__OOS 11 BASED FIRMWARE!**__\n\n\u2022 Only GApps variant is up\n\u2022 SELinux status is permissive for now\n\u2022 48 MP sensor doesn't work in OOSCam (needs source side commits)\n\u2022 No other bugs as of yet\n\n\u2022 I'd try to push a hotfix maybe today with enforcing & OOSCam fixed.\n\n**By** @jaat4u",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CVH2-iAACAaVi8T6n2ltvJiuGldgUit9fO7eIEQACvrIxG1tjSFfCLfklCR2CbQAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "help",
+                "text": null,
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CVH2-iAACAahi8T63iiej97FSyqpLNGqMmWPMbgACnqwxG1wrUFc2vTmy3_RqIAAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "karnel",
+                "text": "#Arcturus #Kernel #R #S \n**Arcturus Kernel | Stable | OOS 12 Firmware.\nUpdated:** __08/08/22__\n\n\u25aa\ufe0f[Download](https://github.com/jaaat4u/Kernel-Releases/releases/tag/20220808)\n\u25aa\ufe0f[Support](https://t.me/ArcturusKernel)\n\nNote that this version is for the __**OOS 12 firmware based Custom roms!__**\n\nThis version DOESN'T have any other variants, works fine even on __**Nameless-AOSP__** with **__WORKING FOD**__!\n\n\u2022 Fully rebased with **__OnePlusOSS**__ Kernel Source\n\u2022 Upstreamed to latest stable Linux Tag __**v4.19.254__**\n\u2022 Merge latest CLO Tag **__LA.UM.9.12.r1-14400.02-SMxx50.QSSI13.0**__\n\u2022 Implement __**ExFAT__** file system support\n\u2022 Implement __**SCHEDHORIZON__** CPU Governor\n\u2022 Implement **__CPU_INPUT_BOOST**__\n\u2022 Implement __**DEVFREQ_BOOST__**\n\u2022 Silence many unwanted logspams\n\u2022 BACKPORT: __**zRAM__** from v5.15\n\u2022 Implement **__LZ4**__ compression/decompression algorithm\n\n__**READ__** __**THE WHOLE CHANGELOG ON THE RELEASE PAGE!__**\n\nTESTED ON: __**Project-Zephyrus__** on __**OnePlus 9R__**\n\n**By:** @jaat4u",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CVH2-iAACAati8T7YAbAu54O7YWlIkZaixxtjNAACsrQxGyBUiFcSB0mFYWlamAAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "kernel_nameless",
+                "text": "Check `#kernel` >> visit the releases page >> read properly & flash CUSTOM ZPOS variant",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "optimization",
+                "text": "`su -c \"cmd package bg-dexopt-job\"`\n\nRun this after you flash the kernel in Termux or any Terminal Emulator, should optimise the system",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "ko-fi",
+                "text": "You may consider this \ud83d\udc40\n\nhttps://ko-fi.com/jaat4u",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "performance",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CVH2-iAACAbti8T9JArRnD-GSKgTUZsrvUitocQACTwYAAg9o8VZaW_cbuYWbeh4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "recovery",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgQAAx0CVH2-iAACAb9i8T9tRqiKOtOoQpD0TfYbJWeA1gACSgoAAnjEWFGwsQ07l-oS9x4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "sauce",
+                "text": "Gib $69 for sauce access\ud83c\udf53",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "sauce_xiaomeme_845",
+                "text": "https://github.com/jaaat4u/kernel_xiaomi_sdm845",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": true,
+            "captchakick": true,
+            "captcharules": false,
+            "cleanwelcome": true,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": false
+        },
+        "pass_words": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ]
+    }
+}

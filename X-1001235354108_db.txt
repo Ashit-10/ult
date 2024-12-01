@@ -1,0 +1,489 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [
+            2081316144,
+            851924816,
+            5467519015
+        ],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "blocklist": [
+            {
+                "trigger": "*dualstatusbarmiui.zip",
+                "text": "Direct DSB zip sharing isn't allowed !! ",
+                "action_on": "document",
+                "action_mode": "tmute 2h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*dualstatusbar.zip",
+                "text": "Direct DSB zip sharing isn't allowed !! ",
+                "action_on": "document",
+                "action_mode": "tmute 2h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "fuck",
+                "text": "Stup up retard !",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*t.me/+*",
+                "text": "No crypto!",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*joinchat*",
+                "text": "No crypto!",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "am new here",
+                "text": " shut up spammers.",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*youtube.com*",
+                "text": " who asked ?",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*dq271*",
+                "text": " spammer",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*sck.io*",
+                "text": " spammer",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "get your airdrop:",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "mute",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*airdrop*",
+                "text": " spammer",
+                "action_on": "text",
+                "action_mode": "ban",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "##",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CSaIB_AABBWf6Yuy3tdWunGmHLqRCu0-ghXY6spIAAkQGAALNc0lXxYfl8bvs8J4eBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "#help",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CSaIB_AABBWukYwffX_eQOr6-ucyXCOV41G1nrqcAAlcHAAI_R0hU8HAYRTc6BeceBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 6
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": true,
+            "gif": false,
+            "invite_link": true,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "90hz_not_working_esportsextreme",
+                "text": "(90HZ not showing) First click on 120 Hz, then on 90 Hz then it will be automatically 90 Hz in sometime",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CSaIB_AABBRYTYgNwvZD7LDKBP3spau-GS3ydmF4AAkIDAALo6ylUKZzixiB7EooeBA",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "dsb",
+                "text": "Aosp :- @dualstatusbar\nMiui :- @dualstatusbarMiui",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "dsb_gladiator",
+                "text": "https://www.pling.com/p/1535576/\n\n\nFlash in magisk",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "fastboot-stuck-fix",
+                "text": "< @rkddevilyt >",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "gladiator_gaming_kernel",
+                "text": "#PocoF1 #Beryllium #PocophoneF1\n**HAPPY INDEPENDENCE DAY \ud83c\uddee\ud83c\uddf3**\n**Gladiator Gaming Kernel**\n__Release date - 14/08/2021__\n\n     \u25aa\ufe0f [DOWNLOAD](http://xpshort.com/pL29D)\n\n     \u25aa\ufe0f [SUPPORT](https://t.me/GladiatorOS)\n\n**Changelogs**\n\u2022 __Upstream Linux tag  4.9.279 \n\u2022 Fhd display constant 60hz\n\u2022 Merged Caf tag LA.UM.8.3.c25-02500-sdm845.0\n\u2022 Pixel thermals support\n\u2022 Oc GPU & CPU \n\u2022 Kcal retention fix\n\u2022 Misc changes and fixes\n\u2022 usb fast charge 900mA\n\u2022 sound control \n\u2022 Disabled useless log spam \n\u2022 Touch fw updates__\nCredit\n#TeamOne #Clang11 #TeamGladiatorOS #TeamOneCore",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CSaIB_AABBRYvYgNw9cKk2beX5J_xOjQwQtskU50AAhUEAAK_3MFUlG0IlUD1DnkeBA",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "how_to_download",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0CSaIB_AABBRY3YgNxGJYQ6-lbBKE2chlt5w8Rs3gAAh8CAAJUpyBW-pgoloVJ2bMeBA",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "permissiver",
+                "text": "permissive",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CSaIB_AABBRY8YgNxILGffLWZpZfpWpjzis5a9IUAAvIAA7318VfPOWG_jbtXuh4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "pubg_crash_fix",
+                "text": "https://youtu.be/bicMXZQ-IEI",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "region_fix",
+                "text": "Flash via recovery then check",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CSaIB_AABBRZGYgNxNcPR0sBnWsM0n-A53eKUATkAAk0EAALJl7BW6QdEsO7hHskeBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "scorpion_thermals",
+                "text": "**Scorpion thermals** \n\n\u25aa\ufe0f[Download](https://mega.nz/folder/L4gEwYba#Okx9lb0jB5xhr0z4ZbRzRw)",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CSaIB_AABBRZQYgNxS9m0HYRgojWBpnBfyTC1HMwAAqSsMRsOF3FVPu_oHLfI6nAACAEAAwIAA3kABx4E",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "support_groups",
+                "text": "__**Our Support Groups__**\n\n__**1)__** __**@GladiatorOS__**\n\n__**2)__** **__@MIBLACKSHARK**__\n\n__**3)__** __**@ETRRAGNAROFFICAL__**\n\n__**4)__** __**@GladiatorOSGaming__**\n\n__These are the only groups which are belongs to us, apart from us there is no other groups__\n\n__If you use their stuffs, if something happens to your device then we are not responsible for that\nIf you see such a f*cking channel or group somewhere, then report there__",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CSaIB_AABBRZVYgNxVheboQZyi_NbzNXjjUDAjBIAAtKsMRu_74FXiSbH-G_9LYkACAEAAwIAA3gABx4E",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "themes",
+                "text": "themes",
+                "btn_url": "[Themes](buttonurl://https://drive.google.com/folderview?id=1--lACIQyFTmioOQwIij2wDNjgL_JT-DS)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "youtube_channel",
+                "text": "Join Our YouTube channel \n\nFor more Updates \ud83d\udd25\n\nhttps://m.youtube.com/channel/UCfkk6KSX40PpPvqBTHFcigA",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CSaIB_AABBRZgYgNxb8gJ19jbTekE9denerE1fxIAArqqMRsZcPFUJy1-0AlfvUwACAEAAwIAA3kABx4E",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "hardbrick-fix",
+                "text": "< @rkddevilyt >",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "14"
+            },
+            {
+                "trigger": "all_roms_link",
+                "text": null,
+                "btn_url": "[download](buttonurl://http://gladiatoros.blogspot.com/)",
+                "file_id": "BAACAgUAAx0ESaIB_AABBRfzYgTaCfBk4wV_ytKLw5dohlPuQe0AArgCAALYgklWA-FqK1HBoCMeBA",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "15"
+            },
+            {
+                "trigger": "downloads",
+                "text": null,
+                "btn_url": "[download](buttonurl://http://gladiatoros.blogspot.com/)",
+                "file_id": "BAACAgUAAx0ESaIB_AABBRf6YgTacvuFKX0aJ34hWfEVhdjO1aYAArgCAALYgklWA-FqK1HBoCMeBA",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "16"
+            },
+            {
+                "trigger": "icon_pack",
+                "text": "https://t.me/cool_modules/63",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "17"
+            },
+            {
+                "trigger": "recovery_x3pro",
+                "text": "https://www.androidfilehost.com/?w=files&flid=324966",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "18"
+            },
+            {
+                "trigger": "safetynet+banking_25.1above",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CSaIB_AABBWNQYtJYr5VeFHVpBHKwUDH1kos0GugAAosGAAKNGZlWok7PmlkMKOUeBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "19"
+            },
+            {
+                "trigger": "myui_ports",
+                "text": "https://t.me/f1portupdates",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "20"
+            },
+            {
+                "trigger": "regizn_builds",
+                "text": "https://t.me/reignzupdate",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "21"
+            },
+            {
+                "trigger": "baka_hokage_builds",
+                "text": "https://t.me/baka_hokage_builds",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "22"
+            },
+            {
+                "trigger": "edl_hardbrickfix_paid",
+                "text": "any one want to do EDL for their device contact @kkashiyan u will need a laptop or pc with internet connection a good usb cable and your device frimware files in pc the charges for the service is 100 rupees only.",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "23"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captcharules": false,
+            "cleanwelcome": true,
+            "captchakick": false,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": true,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": "1. Be respectful to everyone.\n2. Don't be toxic .\n3. Help eachother.\n4. Offtopic little bit allowed.\n5. No Adultary material  (stickers allowed make  sure nobody got offended ).\n6. Dont use any Adultary  18+ stickers.\n7. Do not ask stuffs about any other Roms and paid rom.\n8. Do not spam else get mute by rose didi.\n9. Do not ask stupid questions.\n10. No promotion of any sort, feel free to use to \"/report\" command to report spammers.\n11. Do not share fake information.\n12. No ETA\n13. Don't ask for \"best\", use different combo and get best of it.\n14. Disrespect to anyone may lead to warn or ban as per the situation.\n15. Hinglish is allowed.",
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "text": "\u269c  \ud835\udc70\ud835\udc8f\ud835\udc87\ud835\udc90 \ud835\udc74\ud835\udc86\ud835\udc8e\ud835\udc83\ud835\udc86\ud835\udc93 \u269c\n\n\u25b6\ufe0f  NAME  :  {first}\n\u25b6\ufe0f  USERNAME : {username}\n\u25b6\ufe0f  ID  :  {id}\n\u25b6\ufe0f WELCOME TO  : {group}\n\nDeveloper :  [@X_RAGNAR](http://t.me/x_ragnar)\n\n\ud835\ude4d\ud835\ude6a\ud835\ude61\ud835\ude5a\ud835\ude68 :\nPromotion\nAbusive words = \ud835\udc6e\ud835\udc86\ud835\udc95\ud835\udc95\ud835\udc8a\ud835\udc8f\ud835\udc88 \ud835\udc69\ud835\udc82\ud835\udc8f\ud835\udc94 \u2757\n\n\n\n",
+                "btn_url": "[\u269c Gladiator OS \u269c](buttonurl://https://t.me/ETRRAGNAROFFICAL)[\u269c MI BlackShark \u269c](buttonurl://https://t.me/MiBlackShark:same)[\u269c Gaming stuff group \u269c](buttonurl://https://t.me/GladiatorOSgaming)[\u269c Poco X3 Pro Chats \u269c](buttonurl://https://t.me/Pocox3proChats:same)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": "\u269c  \ud835\udc70\ud835\udc8f\ud835\udc87\ud835\udc90 \ud835\udc74\ud835\udc86\ud835\udc8e\ud835\udc83\ud835\udc86\ud835\udc93 \u269c\n\n\u25b6\ufe0f  NAME  :  {first}\n\u25b6\ufe0f  USERNAME : {username}\n\u25b6\ufe0f  ID  :  {id}\n\u25b6\ufe0f WELCOME TO  : {group}\n\nDeveloper :  [@X_RAGNAR](http://t.me/x_ragnar)\n\n\ud835\ude4d\ud835\ude6a\ud835\ude61\ud835\ude5a\ud835\ude68 :\nPromotion\nAbusive words = \ud835\udc6e\ud835\udc86\ud835\udc95\ud835\udc95\ud835\udc8a\ud835\udc8f\ud835\udc88 \ud835\udc69\ud835\udc82\ud835\udc8f\ud835\udc94 \u2757\n\n\n\n",
+                "btn_url": "[\u269c Gladiator OS \u269c](buttonurl://https://t.me/ETRRAGNAROFFICAL)[\u269c MI BlackShark \u269c](buttonurl://https://t.me/MiBlackShark:same)[\u269c Gaming stuff group \u269c](buttonurl://https://t.me/GladiatorOSgaming)[\u269c Poco X3 Pro Chats \u269c](buttonurl://https://t.me/Pocox3proChats:same)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

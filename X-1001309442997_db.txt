@@ -1,0 +1,151 @@
+{
+    "2114146261": {
+        "advancedblocklist": [
+            {
+                "trigger": "*miui*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "warn",
+                "times": 2,
+                "within": 86400,
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "approved_channels_and_users": [],
+        "blocklist": [
+            {
+                "trigger": "miuisystemui.apk",
+                "text": "MiuiSystemUI.apk",
+                "action_on": "document",
+                "action_mode": "tmute 69h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*bot?start=*",
+                "text": "shut up spammer !",
+                "action_on": "text",
+                "action_mode": "tmute 6h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*miui*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": false,
+            "approve": false,
+            "ban": false,
+            "blocklists": true,
+            "fban": true,
+            "filters": false,
+            "greetings": true,
+            "kick": false,
+            "locks": false,
+            "mute": false,
+            "notes": false,
+            "pin_unpin": false,
+            "promote_demote": false,
+            "purge": true,
+            "report": true,
+            "rules": false,
+            "id": true,
+            "info": false,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": false,
+            "sg": false,
+            "warn": false
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captchakick": false,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": null,
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": null,
+                "typee": 0
+            }
+        ]
+    }
+}
