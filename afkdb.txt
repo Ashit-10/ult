@@ -1,0 +1,13 @@
+{
+    "12345": [
+        {
+            "id": 1246467977,
+            "username": "Naveen_xD",
+            "user": "N\u03b1\u0475\u03b5\u03b5\u03b7 [\u26a1]",
+            "since": 1716125285,
+            "old_id": 120741,
+            "reason": "no net bruh",
+            "chat_id": -1001426113453
+        }
+    ]
+}
