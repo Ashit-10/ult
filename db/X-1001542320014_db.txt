@@ -1,0 +1,882 @@
+{
+    "2114146261": {
+        "chat_members": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "advancedblocklist": [
+            {
+                "trigger": "*.apk",
+                "text": " Don't spam apk, you gandu",
+                "action_on": "document",
+                "action_mode": "tmute 2h",
+                "times": 3,
+                "within": 21600,
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "approved_channels_and_users": [
+            197573946,
+            488773631
+        ],
+        "blocklist": [
+            {
+                "trigger": "*@dualstatusbarmiui.zip*",
+                "text": "read rules before sharing direct dsb file",
+                "action_on": "document",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "job",
+                "text": "Possible scam detected",
+                "action_on": "text",
+                "action_mode": "tmute 24h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*.mp4",
+                "text": null,
+                "action_on": "document",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "/afk",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*.xml",
+                "text": null,
+                "action_on": "document",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "shit",
+                "text": "Shut up gandu",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*tiktok.com*",
+                "text": "Bhadwe ki himmat to dekho \ud83e\udd28",
+                "action_on": "text",
+                "action_mode": "tmute 69d",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "/help@quotlybot",
+                "text": "Use brain!",
+                "action_on": "text",
+                "action_mode": "tmute 1m",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "/donate@quotlybot",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "tmute 2m",
+                "should_delete": true,
+                "show_warning_message": false
+            },
+            {
+                "trigger": "*bot?start=*",
+                "text": "shut up spammer !",
+                "action_on": "text",
+                "action_mode": "tmute 6h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*notojo.page*",
+                "text": "Stup of retard !",
+                "action_on": "text",
+                "action_mode": "tmute 69d",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*t.me/+*",
+                "text": "crypto",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*joinchat*",
+                "text": "no promotion",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*drive.com*",
+                "text": " Don't share direct gdrive link retard !",
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*drive.google.com*",
+                "text": " Don't share direct gdrive link retard !",
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*lazada.com*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*drive.google*",
+                "text": "Don't share direct gdrive link",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "@ashit_10",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": false
+            },
+            {
+                "trigger": "*pinksale.f*",
+                "text": " spammer",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*.btc.com*",
+                "text": " bitcoin spammer",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*cutt.ly*",
+                "text": " spammer",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*schw.ltd*",
+                "text": "spammer ",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "captchamode": "button",
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": false,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "aosp",
+                    "text": "@dualstatusbar for aosp ",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "a10",
+                    "text": "**MIUI A10** users plz use our  **Nouvelle substratum** to build Dual status bar",
+                    "btn_url": "[Download](buttonurl://https://t.me/nouvelle_subs/20)[HOW I CAN BUILD](buttonurl://https://t.me/nouvelle_support/3736)[I'M NOOB](buttonurl://https://t.me/nouvelle_support/5521)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "can't find",
+                    "text": "How to find / get dsb files?\n\n1) Check #download note, every available file will be there\n\nIf you find a file for your device and rom, flash it on Magisk and reboot\n\n2) If you've already checked downloads and didn't find a compatible dsb file, check #request_format to learn how to write a request message here, on support\n\nAn available miui dsb admin will take your request when he's available :)",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "#notes",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CW-3vjgACleBiXZcaIE7A6570mE2MD6P0BHisoQACbQYAAv6x6VbGCjqzAAF_ytYeBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "is there",
+                    "text": "How to find / get dsb files?\n\n1) Check #download note, every available file will be there\n\nIf you find a file for your device and rom, flash it on Magisk and reboot\n\n2) If you've already checked downloads and didn't find a compatible dsb file, check #request_format to learn how to write a request message here, on support\n\nAn available miui dsb admin will take your request when he's available :)",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "link?",
+                    "text": "This button will take you to the list of all available Dsb modules - \nDownload as per your device and don't mirror them.. \n\n**MAKE SURE TO FLASH IN MAGISK**",
+                    "btn_url": "[\ud83d\udcf2  Download  DSB  \ud83d\udcf2  ](buttonurl://https://dualstatusbar.in/)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "link ?",
+                    "text": "This button will take you to the list of all available Dsb modules - \nDownload as per your device and don't mirror them.. \n\n**MAKE SURE TO FLASH IN MAGISK**",
+                    "btn_url": "[\ud83d\udcf2  Download  DSB  \ud83d\udcf2  ](buttonurl://https://dualstatusbar.in/)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "elite",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CW-3vjgACoqpif29ViSx4yHkTJLPI7GSJEa5ZbQACLwYAAg6f2FXtSJ5kr-IUUx4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "when",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CgACAgQAAx0CW-3vjgACpIZih7rEG5efTxv6P9CHAAHcGgeRC1AAAlcCAAI7dp1SAW89Y3I_cygeBA",
+                    "action_on": "text",
+                    "typee": 6,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/shipping",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "BAACAgUAAx0CW-3vjgACpe5ijR4QQVYoLHYZQCet15SQGrusMQAC5wMAArHhQVbzSH5RP5Ag8h4E",
+                    "action_on": "text",
+                    "typee": 4,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "doesn't work",
+                    "text": "Elaborate the actual issue instead of \"doesn't work\" .",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "a9",
+                    "text": "Currently Supported Miui Versions for DSB :\n\n\ud83d\udd37 MIUI Android 10 ([Use nouvelle Substratum](https://t.me/nouvelle_support)) ([Preview](https://t.me/MiuiDSB_Support/34614))\n\ud83d\udd37 MIUI Android 11 ([Have 2 styles](https://t.me/MiuiDSB_Support/34615))\n\ud83d\udd37 MIUI Android 12 ([Have 2 styles](https://t.me/MiuiDSB_Support/34616))\n\ud83d\udd37 For other **non-miui roms ** ,ask in t.me/dualstatusbar with screenshot",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "#downloads",
+                    "text": "This button will take you to the list of all available Dsb modules - \nDownload as per your device and don't mirror them.. \n\n**MAKE SURE TO FLASH IN MAGISK**",
+                    "btn_url": "[\ud83d\udcf2  Download  DSB  \ud83d\udcf2  ](buttonurl://https://dualstatusbar.in/)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "@jai_08",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0CW-3vjgACu-di1taaxOwcltlfGrF2_kV_9_B6DQACWgIAAlTcAAFXy_l_olEe_1seBA",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "##",
+                    "text": "Just copy and paste",
+                    "btn_url": null,
+                    "file_id": "CgACAgUAAx0CW-3vjgACwOhi5kpd12DkPWuNexTLVKqwfoEpqwACywMAAn_V0VdloSneb74bfR4E",
+                    "action_on": "text",
+                    "typee": 6,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "folderview",
+                    "text": "Before spamming module not present, KINDLY open and check the **first link that** says \"folderview\", it has lots of modules inside it. \n\nPlease don't waste our time asking for module which already exists.",
+                    "btn_url": null,
+                    "file_id": "AgACAgUAAx0CW-3vjgACwfJi6Bh0O9P1Fr9Nn50pgE7ymluVhQACT7IxG9WRQFedPS6wecwS3gAIAQADAgADeAAHHgQ",
+                    "action_on": "text",
+                    "typee": 2,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "android 10",
+                    "text": "**MIUI A10** users plz use our  **Nouvelle substratum** to build Dual status bar",
+                    "btn_url": "[Download](buttonurl://https://t.me/nouvelle_subs/20)[HOW I CAN BUILD](buttonurl://https://t.me/nouvelle_support/3736)[I'M NOOB](buttonurl://https://t.me/nouvelle_support/5521)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "bootloop",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CgACAgQAAx0CW-3vjgAC5O5jYO2zfJxRvuyNgU82Xlbi7Oc8_AACIgMAAjd6BFNSScIOI2kSFR4E",
+                    "action_on": "text",
+                    "typee": 6,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "#padding",
+                    "text": "Use any one of below Module to change padding \n**Using Addons is recommended** af:\n\n- **Addons**: Terminal module, includes Padding v3 along with many additional optional features for DSB\n- **Padding v3**: Terminal module, more powerful than v2\n- **Padding v2**: Magisk module, less powerful",
+                    "btn_url": "[DSB Addons (Check pinned)](buttonurl://https://t.me/dsbaddons)[Statusbar Padding Mod V3](buttonurl://https://t.me/cool_modules/88)[Statusbar Padding Mod V2](buttonurl://https://t.me/cool_modules/74)",
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 7
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": true,
+            "audio": true,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "android10",
+                "text": "**MIUI A10** users plz use our  **Nouvelle substratum** to build Dual status bar",
+                "btn_url": "[Download](buttonurl://https://t.me/nouvelle_subs/20)[HOW I CAN BUILD](buttonurl://https://t.me/nouvelle_support/3736)[I'M NOOB](buttonurl://https://t.me/nouvelle_support/5521)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "chimi",
+                "text": "Lsposed module to add more notification icon in miui 12.5 android 11\nCredits to [original author](https://github.com/JasonKhew96) and en translator",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACEONh-oINmCaxWCwG2CBuph7fjsGXGgACsQQAAn1c4FXwmCdbhsfuIR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "donate",
+                "text": "Consider donating for long term Support - \u2764\ufe0f\n\nPayPal Link - (worldwide)\n https://www.paypal.com/paypalme/jp865\n\n\nUpi id (works in India) -\n `ashithappy-2@okaxis`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "guide",
+                "text": "How to find / get dsb files?\n\n1) Check #download note, every available file will be there\n\nIf you find a file for your device and rom, flash it on Magisk and reboot\n\n2) If you've already checked downloads and didn't find a compatible dsb file, check #request_format to learn how to write a request message here, on support\n\nAn available miui dsb admin will take your request when he's available :)",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "notch_types",
+                "text": "Big notch = Big camera cutout in the middle like poco f1,mi8,etc\nSmall notch = small camera cutout in the middle like poco x3,redmi note 8\nLeft notch = camera cutout in the left like mi10t\nRight notch = camera cutout in the right like poco x2",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "other_roms",
+                "text": "Follow @DualstatusbarDSB for Dsb on Aosp/oos/oneui and other roms\nSupport group @dualstatusbar",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "terminal",
+                "text": "The old Terminal Emulator is dead now, and doesn't work properly. We suggest to use Termux instead",
+                "btn_url": "[Download Termux](buttonurl://https://t.me/dsbaddons/148)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "addons",
+                "text": "Addons is an additional optional module which will allow you to enable extra DSB features!\n\nJump to Addons channel and check the latest pinned post to download the most recent update:\n\n\n",
+                "btn_url": "[Add-ons channel](buttonurl://http://t.me/dsbaddons)[Download](buttonurl://https://dualstatusbar.in/Addon:same)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "screenshots",
+                "text": "Here you'll find screenshots of MIUI DSB for both A10 and A11 -",
+                "btn_url": "[Click here](buttonurl://https://t.me/MiuiDSB_Support/3272)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "pling_down",
+                "text": "Good old pling is down? Again?\n\nThen copy your pling link and replace `pling.com` with `store.kde.org`\n\nExample:\nhttps://www.pling.com/p/1527993/ \n\u2195\ufe0f\nhttps://store.kde.org/p/1527993/ \n\nDone! Try the alternative link",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "substratum",
+                "text": "**MIUI A10** users plz use our  **Nouvelle substratum** to build Dual status bar",
+                "btn_url": "[Download](buttonurl://https://t.me/nouvelle_subs/20)[HOW I CAN BUILD](buttonurl://https://t.me/nouvelle_support/3736)[I'M NOOB](buttonurl://https://t.me/nouvelle_support/5521)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "ot",
+                "text": "**Join here for Offtopic stuff -**",
+                "btn_url": "[Tap Here](buttonurl://http://t.me/offtopic_lounge)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "rom_names",
+                "text": "**Please use Orignal rom names for Dsb requests**\nAlso while checking Dsb module, check them by their real names\n**Real name means the base of that rom Eu/China/Global with the correct version of the rom**\n\nThere are lot of kids in market rooting miui roms, changing launcher, and calling it by their own rom like bc rom, mc rom\ud83d\ude02\nWe can't identify roms by such retard names, so kindly use Orignal rom version on which they are based\nAlso they don't change shit XD so **same dsb module will work across such roms, as long as the base and miui version is exactly same**",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "supported_roms",
+                "text": "Currently Supported Miui Versions for DSB :\n\n\ud83d\udd37 MIUI Android 10 ([Use nouvelle Substratum](https://t.me/nouvelle_support)) ([Preview](https://t.me/MiuiDSB_Support/34614))\n\ud83d\udd37 MIUI Android 11 ([Have 2 styles](https://t.me/MiuiDSB_Support/34615))\n\ud83d\udd37 MIUI Android 12 ([Have 2 styles](https://t.me/MiuiDSB_Support/34616))\n\ud83d\udd37 For other **non-miui roms ** ,ask in t.me/dualstatusbar with screenshot",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "14"
+            },
+            {
+                "trigger": "why_pling",
+                "text": "Never share zip file of modules or roms from pling\nPling is used by creators bcoz it pays a small amount for every download\nThough it hardly pays less than half of Internet costs, still that should be respected by users\nSomething is better than nothing",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "15"
+            },
+            {
+                "trigger": "mt_manager",
+                "text": "MT Manager",
+                "btn_url": null,
+                "file_id": "BQACAgEAAx0EW-3vjgACnlhidsDM28qQqve97Wb8mMR3E0REKgACkwAD7nkZR5Xvnv-W6bm5HgQ",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "16"
+            },
+            {
+                "trigger": "bootloopfix",
+                "text": "**What to do if you face a bootloop, black screen, or systemui crashing after booting?**\n\n- If your DSB file was uploaded after **September of 2021** you can flash the same .zip in your recovery, that'll remove the module\n\n- Alternatively you can manually remove it through your recovery, this solution can be applied to every magisk module:",
+                "btn_url": "[Manual Bootloop Fix](buttonurl://https://dualstatusbar.in/bootloopfix)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "17"
+            },
+            {
+                "trigger": "change_padding",
+                "text": "Use any one of below Module to change padding \n**Using Addons is recommended** af:\n\n- **Addons**: Terminal module, includes Padding v3 along with many additional optional features for DSB\n- **Padding v3**: Terminal module, more powerful than v2\n- **Padding v2**: Magisk module, less powerful",
+                "btn_url": "[DSB Addons (Check pinned)](buttonurl://https://t.me/dsbaddons)[Statusbar Padding Mod V3](buttonurl://https://t.me/cool_modules/88)[Statusbar Padding Mod V2](buttonurl://https://t.me/cool_modules/74)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "18"
+            },
+            {
+                "trigger": "change_height",
+                "text": "**DSB already include the dynamic version** of statusbar height changer: Go to developer / display options and change heights from display cutout\n\nIf the above method is not working then use the alternate module (static version) from below:\n\n",
+                "btn_url": "[Download static version](buttonurl://https://t.me/cool_modules/40)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "19"
+            },
+            {
+                "trigger": "change_style",
+                "text": "-Dsb module after 14th September supports 2 styles.\n-You will get options for both styles while flashing the module.\n\nYou can either choose style while installing the dsb module\nOr\nYou can change style anytime using @dsbaddons (without any reboot)",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "20"
+            },
+            {
+                "trigger": "systemui",
+                "text": "Needed apks:- \n\nPath of MiuiSystemUI.apk:\n(A11/A12) -  system/system_ext/priv-app/MiuiSystemUI/\n\n (A10) -  system/priv-app/Miuisystemui/",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "21"
+            },
+            {
+                "trigger": "enable_dsb",
+                "text": "For Dsb always set your status bar style to  Default",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "22"
+            },
+            {
+                "trigger": "download",
+                "text": "This button will take you to the list of all available Dsb modules - \nDownload as per your device and don't mirror them.. \n\n**MAKE SURE TO FLASH IN MAGISK**\n\n**CHECK OUT \"folderview\" if your dsb isn't there**\n\n",
+                "btn_url": "[\ud83d\udcf2  Download  DSB  \ud83d\udcf2  ](buttonurl://https://dualstatusbar.in/miui)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "23"
+            },
+            {
+                "trigger": "request_format",
+                "text": "#request \n1) MiuiSystemUI.apk\n2) - device name (not codename)\n     - EU or CN or IN (Rom's base)\n    - miui rom version \n    - Android version \n3) Screenshot of about phone section (About phone > all specs)\n \n*Don't spam.\n*Request will be ignored if it's already present in [website](http://dualstatusbar.in/miui)",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CW-3vjgACvHJi2F2C03vsDtYWgeE7Nch31Lm3JAACTLAxG6zuwVW0jPeWNE5E8gAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "24"
+            },
+            {
+                "trigger": "eta",
+                "text": "All Miui modules are generally made between 1-3 days\nPlease be patient and don't spam\nI do this as a hobby and I am not getting anything out of this  \ud83d\ude05.\n\n*Asking/ spamming again and again will increase waiting hour.",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "25"
+            },
+            {
+                "trigger": "rules",
+                "text": "Click below button to see rules !",
+                "btn_url": "[Click here !](buttonurl://http://t.me/The_Ultron_Robot?start=-1001542320014_RULES)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "26"
+            },
+            {
+                "trigger": "java_clock_codes",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgEAAx0CW-3vjgAC2CBjPEIsEzxcwof82vtQbpYJRh4hmgACQgIAAgNfIUTLuVlKB2boGB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "27"
+            },
+            {
+                "trigger": "a10",
+                "text": "**MIUI A10** users plz use our  **Nouvelle substratum** to build Dual status bar",
+                "btn_url": "[Download](buttonurl://https://t.me/nouvelle_subs/20)[HOW I CAN BUILD](buttonurl://https://t.me/nouvelle_support/3736)[I'M NOOB](buttonurl://https://t.me/nouvelle_support/5521)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "28"
+            },
+            {
+                "trigger": "style0",
+                "text": "Flash latest addons\nIn add-ons, go to advanced style and select \"style 0\" option.\nApply it and restart systemui.\n\nDone",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CW-3vjgAC6v1jcnWuhOwgZ1dRHB00Q6eoZTu_jgACgbUxG7CdkFfPbugMeS7zjwAIAQADAgADeAAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "29"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": true,
+            "antiservice": false,
+            "captcha": true,
+            "captcharules": false,
+            "cleanwelcome": true,
+            "lang_detect": false,
+            "captchakick": true,
+            "private_notes": false,
+            "privaterules": true,
+            "noteshash": false
+        },
+        "pass_words": [
+            "guide",
+            "lmao",
+            "xd",
+            "sar?",
+            "lol",
+            "cn",
+            "#request"
+        ],
+        "rules": "- Try to speak in English\n- Minimal OT is allowed\n- Disrespecting any member is not allowed\n- Unecessary link sharing and promotions are not allowed\n- Sending pm to admins isn't allowed\n- Tagging admins for unnecessary reasons isn't allowed\n- Flexing screenshots of dsb which are not made by us is not allowed. It's confusing for everyone\n- **DON'T share dsb zip files directly. If someone needs dsb, teach them to use downloads from our site or to make a request, by showing them our** #gui`de`",
+        "warn_action": "ban",
+        "welcome": [
+            {
+                "text": "Hey hello {mention} , `{id}` !\nWelcome to Dual Status Bar - MIUI Support  !\n\nIf you've never seen here before it's suggested to read our guide to learn how to proceed :)\n\n\n",
+                "btn_url": "[Our guide](buttonurl://https://t.me/MiuiDSB_Support/4837)[Download DSB](buttonurl://dualstatusbar.in:same)",
+                "file_id": "AgACAgUAAx0CW-3vjgACc11iBlfiTPkBUymROidwlSH7wBWcLQACK68xG_sJmFexnFl5hqYAAV0ACAEAAwIAA3gABx4E",
+                "typee": 2,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": null,
+                "btn_url": null,
+                "file_id": "CAACAgUAAx0CW-3vjgACyIpjAAFthoX_X0gMzEJXp8JyFQQH3k0AAsoBAALvtiMsg18455hIJwQeBA",
+                "typee": 1,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

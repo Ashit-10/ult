@@ -1,0 +1,297 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "blocklist": [
+            {
+                "trigger": "/help@quotlybot",
+                "text": "/help@QuotLyBot",
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*bot?start=*",
+                "text": "shut up spammer !",
+                "action_on": "text",
+                "action_mode": "tmute 6h",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*lazada.com*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*youtube.com/shorts*",
+                "text": "*YouTube.com/shorts*Okay, but who asked?",
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "captchamode": "button",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "id": true,
+            "info": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": false,
+            "nsfw_check": true,
+            "pin_unpin": true,
+            "ping": true,
+            "promote_demote": true,
+            "purge": true,
+            "raid": true,
+            "report": true,
+            "rules": false,
+            "sg": false,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "/shipping",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgEAAx0Caye5DAACHvZiSEMYHGMDQWq_k5JaYMhrI7EDcAACawEAAmxfuESgj45HPxoiPR4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "realme",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgUAAx0Caye5DAACd_dj2QWGYMvUz82V1Dz_4Cru7yIzhwACCAIAArrVPDDEwpMYGpILPR4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 12
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": true,
+            "anon_channel": true,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": false,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "customize_bootanimation",
+                "text": "Default resolution for all bootanimations-\nHeight - 1920\nWidth - 1080\nFps - Depends on your video\n\nYou can change it anytime, after flashing module and rebooting. \n-Go to terminal\n-Type su, press enter\n-Type coolboot, press enter \n-Set height, width, fps of your choice\n-And play and check .\n-No reboot needed to apply any change.\nAll bootanimations can be played using terminal. \nSo enjoy then!!\n\n\nFor landscape Bootanimation change resolution as per your video",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "bootloopfix",
+                "text": "There are two ways to remove module incase of bootloops -\n\n1.) flash same module in recovery\n\n2.) Remove module from /data/adb/modules",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "guide",
+                "text": "Click there below button to read the complete guide on how to use the bot:",
+                "btn_url": "[Bootanimation Bot Guide](buttonurl://https://telegra.ph/Cool-Bootanimations-Bot-02-17)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "how_to_use",
+                "text": "Click there below button to read the complete guide on how to use the bot:",
+                "btn_url": "[Bootanimation Bot Guide](buttonurl://https://telegra.ph/Cool-Bootanimations-Bot-02-17)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "name",
+                "text": "Use a decent name for bootanimations, which describes your video/bootanimation in some way, so that other users can also use it\nUsing shitty names will lead to warn/ban",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "playable_bootanimation",
+                "text": "What is Playable bootanimation? \n\nYou can play bootanimation from terminal and preview them anytime. \n\nThis option can be enabled from terminal\nIn newer modules its off by default\nAs it causes booting issues for high fps videos and long videos\n\nSo don't use it if your video duration is 20+\nOr if your fps is 30+\nOthers can use it\nIt works fine ([example here)](https://t.me/cool_modules/105https://t.me/cool_modules/105)\n\nRemove module if you face any issue",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "best_quality",
+                "text": "By default telegram compresses every media, but you can send your video as document files for best quality!\n\nSelect \"File\" option in the attachment menu and then run the bot, this will give you best quality bootanimations \ud83d\ude0e",
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0Caye5DAACDOtiF8vtULhs_PqfIDmY8clk_AMv3AACFq8xG2ns2FdtK1Y140_QLgAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "manual",
+                "text": "If you are unrooted or Magisk module isn't working properly for some reason then only use the following manual method - \n\nExtract module\nCopy bootanimation.zip from module\n\nPaste in your system's bootanimation path (could be system/media or system/product/media)\nBefore pasting Backup your stock bootanimation.zip if you want",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "download",
+                "text": "Check @Cool_bootanimations for previews and download links. \n\nOlder modules are uploaded under-\nhttps://www.pling.com/p/1696493\nNewer modules are directly uploaded on Support group @bootanimations_group\n\nOr you can just Click the download button in channel post",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "how_to_download",
+                "text": "Here is a video on \"how to download bootanimation\" .\n\nThis applies to older bootanimation only\n\nNewer ones are directly uploaded in @bootanimations_group",
+                "btn_url": null,
+                "file_id": "BAACAgUAAx0Caye5DAACYfdjgeO7NL77ShSD_K47EOY98yddpQACFQUAAuQckVXNMJrENG16nB4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "reduce_resolution",
+                "text": "If u send as document\nIt will preserve resolution and quality\nSo recommended to send as document file\n\nBut android won't support extremely high resolution videos, so in that case sending as file helps, bcoz telegram automatically reduces the resolution",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": true,
+            "antiservice": false,
+            "captcha": true,
+            "captchakick": true,
+            "captcharules": true,
+            "cleanwelcome": true,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "rules": "Rules in `Cool Bootanimations - Support` are:\n\n1. Off topic is allowed (don't abuse or disrespect anyone though)\n2. Strictly no porn or any kind of nudity (will directly lead to multiple fbans ) \n3. Don't make for cheap and low quality or shitty videos which no one including you will use, only make if you are actually gonna use it. \n4. Don't spam or misuse the bot. \n5. Give a Decent name to bootanimation you create, so that others can identify it by name and use it.\n6. Don't deletes your messages after creating the bootanimation, as too much deleted messages causes confusion to others \n7. Enjoy\n\nAny violation may lead to direct ban without any warn",
+        "warn_action": "ban",
+        "welcome": [
+            {
+                "text": "Hey there {mention}, and welcome to Cool Bootanimations - Support!\n\nHere you can use the bot to create your own bootanimations, check the guide to learn about it\n\nComplete the captcha below to be able to speak in the group \ud83d\udc4b\n\n",
+                "btn_url": "[Bootanimations Guide](buttonurl://https://telegra.ph/Cool-Bootanimations-Bot-02-17)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": "Hey there {mention}, and welcome to Cool Bootanimations - Support!\n\nHere you can use the bot to create your own bootanimations, check the guide to learn about it\n\nComplete the captcha below to be able to speak in the group \ud83d\udc4b\n\n",
+                "btn_url": "[Bootanimations Guide](buttonurl://https://telegra.ph/Cool-Bootanimations-Bot-02-17)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

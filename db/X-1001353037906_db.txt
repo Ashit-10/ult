@@ -1,0 +1,163 @@
+{
+    "2114146261": {
+        "advancedblocklist": [],
+        "approved_channels_and_users": [
+            1602293216,
+            5323236435
+        ],
+        "blocklist": [],
+        "captchamode": "text",
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "rules": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "api1",
+                "text": "--**OCR RESULT--** \n\n`12:45 \n681 of 681 \nwas retriev X + \nusiness/harisa#main.py \nSunnah.com - \nim rt t inp \nO. 1 KB/s \nI Quran.com \nPython Prograrn tom \nStop \nfrom pyrogran import Client \napi_id -112258339893 \napi_hash \u2014 \"ba8886ad592baccb5d7kjkjk1jkj92099cf754864\" \nwhile (n!ze): \nfor i in msgs: \ntry: \nwith api_id, api_hash) as \napp: \n@app.on_message( \u2022 filters . private ) \ndef \nexcept \ntext -m. text \nm. reply(\"hi\") \nException as e . \nprint(e) \npournami \n12.02.22 at 12:31 PM`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "api2",
+                "text": "--**OCR RESULT--** \n\n`filters \nbot.py \n/vh.py \nternal Libraries \nratches an d Consoles \napl_l\u00e4 \nfrom \nbot \npyrogram import Client, \nClient( \n\"project\", \n8545139, \nbot_token \nbot.on \nmessa e filters. command 'start') & filters. rivate \n*def start(bot, message): \nE: . exe \nProcess finished with \nbot.send_message(message.chat.id, I am Simple test bot. \n01 \nbot. run \nstar to \nE:/project/bot . py \nexit code e`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "5gbands",
+                "text": null,
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CUKW4UgACRuBi__ey9VlS4vOmS73Ilqp962RvHwACM7IxGxha-VcKJ6Evhm4sfQAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "platformtools",
+                "text": "https://youtu.be/cD6zsHQdoXY",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": true,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "private_notes": false,
+            "captchakick": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ]
+    }
+}

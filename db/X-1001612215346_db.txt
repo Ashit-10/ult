@@ -1,0 +1,367 @@
+{
+    "2114146261": {
+        "approved_channels_and_users": [],
+        "chat_members": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "advancedblocklist": [
+            {
+                "trigger": "*.apk",
+                "text": " Plz don't spam apk here",
+                "action_on": "document",
+                "action_mode": "tmute 1m",
+                "times": 3,
+                "within": 10,
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*.zip",
+                "text": " Plz don't spam apk here",
+                "action_on": "document",
+                "action_mode": "tmute 1m",
+                "times": 3,
+                "within": 10,
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "blocklist": [],
+        "captchamode": "text",
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": false,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "/purge",
+                    "text": " Fuck you @Ashit_10 Retard",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/ban",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "BAACAgUAAx0CYBh0MgACBWNiBsIRrbs5vvTwFQ2Qs44cqB25RwACjAQAAm-nOVSgqwkRaZNNxh4E",
+                    "action_on": "text",
+                    "typee": 4,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/reset",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "BAACAgUAAx0CYBh0MgACAx1iBsPMaIKqqtQxxdVAIg2PnS0H_gAC5gQAApllgVb5-w4k5TPyMx4E",
+                    "action_on": "text",
+                    "typee": 4,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "resetall",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "BAACAgUAAx0CYBh0MgACAx1iBsPb9EJNPdeszjZ2Y-C97PXvPAAC5gQAApllgVb5-w4k5TPyMx4E",
+                    "action_on": "text",
+                    "typee": 4,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "worthy",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "BAACAgUAAx0CYBh0MgACBXBiBshQBJBQEsUfJksNt_72sCf1cQACjQQAAm-nOVSgJ4ltwNKbFB4E",
+                    "action_on": "text",
+                    "typee": 4,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/warn",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "CAACAgEAAx0CYBh0MgACBctiBshpafKWPx2CUBIOZaH4IC8HFQACawEAAmxfuESgj45HPxoiPR4E",
+                    "action_on": "text",
+                    "typee": 1,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "/check",
+                    "text": "{mention} RESULT:\nShaadness: Over the counter, too much to display \u26d4\ufe0f\nSafe: 100.0% ",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": false,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "shiping",
+                    "text": "New couple of the day:\n@jai_08  + @Xervis_Cr  = \u2764\ufe0f\n\nNew couple of the day may be chosen in 69 hour 4 minutes 2 seconds",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "shaad",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "AgACAgUAAx0CYBh0MgACFrNiV9nHynKKwIsEPsbLdm4BvozAvwACz7AxG_TvwVZPYp5_Qc1NngAIAQADAgADeQAHHgQ",
+                    "action_on": "text",
+                    "typee": 2,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "@shaad_haque",
+                    "text": null,
+                    "btn_url": null,
+                    "file_id": "AgACAgUAAx0CYBh0MgACHRdikN5dKDl-FcKb9ZLODBeUqB-kbwACDq8xG7sZiFTULqScP79jXwAIAQADAgADeQAHHgQ",
+                    "action_on": "text",
+                    "typee": 2,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 8
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 2,
+        "notes": [
+            {
+                "trigger": "systemui",
+                "text": "Path for Android 10 -\n`system/product/priv-app/SystemUI/systemUI. apk`\n\nPath for Android 11 & 12 -\n `system/system-ext/priv-app/SystemUI/systemUI.apk`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "addons",
+                "text": "Addons is an additional optional module which will allow you to enable extra DSB features!\n\nJump to Addons channel and check the latest pinned post to download the most recent update:",
+                "btn_url": "[Add-ons channel](buttonurl://http://t.me/dsbaddons)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "name_format",
+                "text": "\ud83d\udc49 **What's the file name format?** \ud83d\udd8a\n\nThe one we ALWAYS use to upload the modules in GDrive: --**A SINGLE LINE--** name which contains every information from the request message (when users request in normal support groups, ofc you don't have to do that here xD) - It is:\n\n{DeviceName} {RomName} {RomVersion} {BuildDate} {AndroidVersion}\n\n\ud83d\udc49 **Name format examples:** \ud83d\udcd1\n\n- PocoF1 Nusantara4.2 Jan23 A12\n- Redmi Note 7 Lineage 18.1 Feb11 A11\n- MotoG7 Havoc 3.14 Aug17 A10\n- Realme5Pro Bliss 15.1 Feb8 A12",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "download",
+                "text": "Here you'll find every already available DSB file to be downloaded:",
+                "btn_url": "[Click here](buttonurl://http://dualstatusbar.in/)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "usage-example",
+                "text": "https://telegra.ph/file/63344e65b0edfc19a3913.jpg",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "back-end",
+                "text": "So what happens in back-end ?\n \nWe still do the back end coding\nUpdate codes and xmls as new roms arrive \nIt's maintained regularly by us\nBot hosting costs 10 dollars per which is paid by us.\n\nSo it's not 100% automated,we still do the hard work behind this\nBut yeah, it's automated for you",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "temp_folder",
+                "text": "User generated modules are stored in temp folder\n\nAdmins will move it to correct folder when they get time\nSo that other users can download from website\n\nYou can download and enjoy bcoz you are worthy\nDon't share with others\n\nIt will be moved to correct place soon by admins,so others can download from website \ud83e\udd17",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "bot_source",
+                "text": "[click here](https://youtu.be/dQw4w9WgXcQ)",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "supported_roms",
+                "text": "Everything except miui",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captcharules": true,
+            "cleanwelcome": true,
+            "lang_detect": false,
+            "captchakick": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": "The warn limit is 2. The punishment of 2 warns is a ban from this group. There's not possible unban.\n\n- Follow the name format for every module\n- Make modules only for you\n- Don't share files made in this group in any way. Every module will be able to be downloaded from our site when an admin is available, other users will be able to get them from there sooner or later (usually sooner than later)",
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "text": "Welcome {mention} to Private DSB group! \ud83d\ude0e\n\nMake **SUPER SURE** to read and follow the pinned message of this chat and the rules you're about to read. Ignoring them may lead you to a ban\n\nAfter you've read it that's it, make your own DSB modules with Thanos or chat with everyone else \ud83d\udc4b",
+                "btn_url": null,
+                "file_id": "BAACAgEAAx0CYBh0MgACBbNiBy1KVCmKSDqXWn45EKB3MTn2DAACKwIAAiniMUT6OMyDazjsFR4E",
+                "typee": 4,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": "Welcome {mention} to Private DSB group! \ud83d\ude0e\n\nMake **SUPER SURE** to read and follow the pinned message of this chat and the rules you're about to read. Ignoring them may lead you to a ban\n\nAfter you've read it that's it, make your own DSB modules with Thanos or chat with everyone else \ud83d\udc4b",
+                "btn_url": null,
+                "file_id": "BAACAgEAAx0CYBh0MgACBbNiBy1KVCmKSDqXWn45EKB3MTn2DAACKwIAAiniMUT6OMyDazjsFR4E",
+                "typee": 4,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}

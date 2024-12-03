@@ -1,0 +1,138 @@
+{
+    "2114146261": {
+        "2nd_welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ],
+        "advancedblocklist": [],
+        "approved_channels_and_users": [],
+        "blocklist": [],
+        "captchamode": "text",
+        "chat_members": [],
+        "dont_mention_admins": [],
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": false,
+            "filters": true,
+            "greetings": true,
+            "id": true,
+            "info": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "nsfw_check": true,
+            "pin_unpin": true,
+            "ping": true,
+            "promote_demote": true,
+            "purge": true,
+            "raid": true,
+            "report": true,
+            "rules": true,
+            "sg": false,
+            "warn": true
+        },
+        "filters": {
+            "filters": []
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 5
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": false,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": false,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "fkm",
+                "text": "This",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CYy_rpAACnJtiPd3F10TrjVEzT5BrCrxBauSt5QAC5AQAAqzn8VV6947EYPpA9B4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "tutorial-flash-kernel",
+                "text": "**FLASHING INSTALASI KERNEL**\n\n__- Hapus D8g apk/DKM \n- Hapus folder d8g\n- Hapus semua modul sebelumnya \n- Backup boot.img di rom yg di pakai\n\nMasuk recovery \n(Wipe dalvic/cache & cache)\n\nFlash kernel nya lalu pilih\n\n- OC CPU/2.9Ghz (+)\n- Non oc cpu/2.86ghz (-) Recommended\n\n- Pilih touch latest kalau FTS touchscreen (+) \nKalau NVT ts bebas pilih Old atau Latest tinggal sesuaikan\n\n- non oc display atau 60hz (+) \n- Oc display / 61hz sampai 67hz aja sesuai selera pilih (-) lalu (+) kalau dah di sesaikan\n\n- with ini kernel (+) \n\n- thermal yes (+) \n\n- touch pilih No (-)\n\n- Kalau ada pertanyaan \"apakah kamu geymer\" \nPilih no (-) \nReboot\n__\n**Done and enjoy** \u2764\ufe0f \nBy-Toms",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": false,
+            "antiservice": false,
+            "captcha": false,
+            "captchakick": false,
+            "captcharules": false,
+            "cleanwelcome": false,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "rules": null,
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "text": "Hey {mention} !\nWelcome to {group} . Have a nice day :)",
+                "typee": 0
+            }
+        ]
+    }
+}

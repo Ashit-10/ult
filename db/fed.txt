@@ -1,0 +1,131 @@
+{
+    "feds": {
+        "1602293216": {
+            "fed_id": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+            "fed_name": "Telegram Variance Authority @TvaFed"
+        },
+        "1633288115": {
+            "fed_id": "3d1cd114b642101bad8287270fc5023827375c3e",
+            "fed_name": "Black Realm \u00bb @forgive_plz"
+        },
+        "740538095": {
+            "fed_id": "0e69145a4fa683a953d420ca8938da9c5d1131be",
+            "fed_name": "test"
+        },
+        "1645506296": {
+            "fed_id": "e19db458b7227e4299db94bf7e2d7ae575f0f91c",
+            "fed_name": "ok"
+        }
+    },
+    "per_group": {
+        "-1001542320014": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001486308601": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001612215346": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001797765388": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001353037906": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001235354108": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001309442997": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001417526920": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001574127754": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001275077034": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001466266928": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001309407366": "3d1cd114b642101bad8287270fc5023827375c3e",
+        "-1001410801523": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001716284663": "e19db458b7227e4299db94bf7e2d7ae575f0f91c",
+        "-1001665143771": "3d1cd114b642101bad8287270fc5023827375c3e",
+        "-1001665075251": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b",
+        "-1001889767694": "22bf8d937e1b2701e7f3ea95a485ed288b610d4b"
+    },
+    "per_fed": {
+        "22bf8d937e1b2701e7f3ea95a485ed288b610d4b": {
+            "chats": [
+                -1001542320014,
+                -1001486308601,
+                -1001612215346,
+                -1001797765388,
+                -1001353037906,
+                -1001235354108,
+                -1001309442997,
+                -1001417526920,
+                -1001574127754,
+                -1001275077034,
+                -1001466266928,
+                -1001716284663,
+                -1001205981587,
+                -1001503226683,
+                -1001889767694,
+                -1001410801523,
+                -1001665075251
+            ],
+            "subs": []
+        },
+        "3d1cd114b642101bad8287270fc5023827375c3e": {
+            "chats": [
+                -1001309407366,
+                -1001665143771
+            ],
+            "subs": []
+        },
+        "0e69145a4fa683a953d420ca8938da9c5d1131be": {
+            "chats": [],
+            "subs": []
+        },
+        "e19db458b7227e4299db94bf7e2d7ae575f0f91c": {
+            "chats": [
+                -1001716284663
+            ],
+            "subs": []
+        }
+    },
+    "allfeds": {
+        "22bf8d937e1b2701e7f3ea95a485ed288b610d4b": {
+            "name": "Telegram Variance Authority @TvaFed",
+            "admins": {
+                "1602293216": {
+                    "name": "Ashit"
+                }
+            },
+            "log_chat": -1001486308601
+        },
+        "3d1cd114b642101bad8287270fc5023827375c3e": {
+            "name": "Black Realm \u00bb @forgive_plz",
+            "admins": {
+                "1633288115": {
+                    "name": "\ud835\udde2\ud835\uddd9\ud835\uddd9\ud835\udddc\ud835\uddd6\ud835\udddc\ud835\uddd4\ud835\udddf\u2122 \ud83c\udde7\ud83c\udde9"
+                },
+                "1202400993": {
+                    "name": "\ud835\udde6\ud835\udddb\ud835\uddd4\ud835\udddd\ud835\udde8 \ud83c\udde7\ud83c\udde9"
+                },
+                "870028225": {
+                    "name": "MRX"
+                },
+                "5244547685": {
+                    "name": "SaHaRiA"
+                },
+                "5198955201": {
+                    "name": "\ud835\udde5\ud835\udf63\ud835\udded\ud835\uddd4\ud835\udde8\ud835\udddf"
+                },
+                "1092449903": {
+                    "name": "IG_T\u028dax-YT \ud83c\udde7\ud83c\udde9\u3164| NexG\u00e1ng"
+                }
+            },
+            "log_chat": -1001627348184
+        },
+        "0e69145a4fa683a953d420ca8938da9c5d1131be": {
+            "name": "test",
+            "admins": {
+                "740538095": {
+                    "name": "Defender"
+                }
+            }
+        },
+        "e19db458b7227e4299db94bf7e2d7ae575f0f91c": {
+            "name": "ok",
+            "admins": {
+                "1645506296": {
+                    "name": "Ashit"
+                }
+            }
+        }
+    }
+}

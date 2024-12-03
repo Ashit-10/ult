@@ -1,0 +1,781 @@
+{
+    "2114146261": {
+        "advancedblocklist": [
+            {
+                "trigger": "#request",
+                "text": "Plz don't spam apk here ",
+                "action_on": "text",
+                "action_mode": "tmute 1m",
+                "times": 2,
+                "within": 7200,
+                "should_delete": true,
+                "show_warning_message": true
+            }
+        ],
+        "approved_channels_and_users": [],
+        "blocklist": [
+            {
+                "trigger": "*t.me/+*",
+                "text": "chumtiya",
+                "action_on": "text",
+                "action_mode": "fban",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*drive.google.com*",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "warn",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "@ashit_10",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": false
+            },
+            {
+                "trigger": "test",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "tmute 1m",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "@ashit10",
+                "text": null,
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": false
+            },
+            {
+                "trigger": "*dualstatusbarmiui.zip",
+                "text": null,
+                "action_on": "document",
+                "action_mode": "tmute 1m",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*@dualstatusbarmiui*",
+                "text": null,
+                "action_on": "document",
+                "action_mode": "tmute 1m",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "*dualstatusbarmiui*",
+                "text": null,
+                "action_on": "document",
+                "action_mode": "tmute 1m",
+                "should_delete": true,
+                "show_warning_message": true
+            },
+            {
+                "trigger": "/start@missrose_bot",
+                "text": "{false}",
+                "action_on": "text",
+                "action_mode": "nothing",
+                "should_delete": true,
+                "show_warning_message": false
+            }
+        ],
+        "captchamode": "button",
+        "dont_mention_admins": [],
+        "chat_members": [
+            740538095
+        ],
+        "raid": {
+            "duration": "6h",
+            "kick_for": "1h",
+            "started_time": 0,
+            "status": "off"
+        },
+        "enable_disable": {
+            "ablocklists": true,
+            "antiflood": true,
+            "approve": true,
+            "ban": true,
+            "blocklists": true,
+            "fban": true,
+            "filters": true,
+            "greetings": true,
+            "kick": true,
+            "locks": true,
+            "mute": true,
+            "notes": true,
+            "pin_unpin": true,
+            "promote_demote": true,
+            "purge": true,
+            "report": true,
+            "rules": true,
+            "id": true,
+            "info": true,
+            "nsfw_check": true,
+            "ping": true,
+            "raid": true,
+            "sg": true,
+            "warn": true
+        },
+        "filters": {
+            "filters": [
+                {
+                    "trigger": "r",
+                    "text": "[<// Shadow //>](tg://user?id=1245903549) has 2/3 warnings! watch out Retard;\n**Reason:** don't make shitty bootanimations, don't use shitty names (Read rules when?)",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "h",
+                    "text": "**www.TamilBlasters.cloud**** - Doraemon Great Adventure in the Antarctic Kachi Kochi (2017) [1080p BDRip - x264 - [Tam + Tel + Hin + Jap] - AAC - 2GB - ESub].mkv**",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                },
+                {
+                    "trigger": "hi",
+                    "text": "<code> jjjee </code>",
+                    "btn_url": null,
+                    "file_id": null,
+                    "action_on": "text",
+                    "typee": 0,
+                    "disable_link_preview": true,
+                    "full_match": false,
+                    "trigger_for_admins": true,
+                    "trigger_for_members": true,
+                    "is_protected": false
+                }
+            ]
+        },
+        "flood": {
+            "action": "tmute 2h",
+            "messages": 2
+        },
+        "goodbye": [
+            {
+                "btn_url": null,
+                "disable_link_preview": true,
+                "file_id": null,
+                "is_protected": false,
+                "text": "Nice knowing you !",
+                "typee": 0
+            }
+        ],
+        "locks": {
+            "all": false,
+            "anon_channel": false,
+            "audio": true,
+            "contact": false,
+            "document": false,
+            "forward_from_channel": true,
+            "forward_from_user": true,
+            "gif": false,
+            "invite_link": false,
+            "location": false,
+            "media": false,
+            "photo": false,
+            "poll": false,
+            "sticker": false,
+            "video": false
+        },
+        "lock_sizes": {
+            "document": 0,
+            "video": 0
+        },
+        "max_warns": 3,
+        "notes": [
+            {
+                "trigger": "redis_uri",
+                "text": "redis-10240.c228.us-central1-1.gce.cloud.redislabs.com:10240",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "1"
+            },
+            {
+                "trigger": "redis_pass",
+                "text": "8538nwiT27gGjUFViBTNr8rKieo5iIhC",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "2"
+            },
+            {
+                "trigger": "source_code",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACHlNiFp0UdhWILPe9OsJ1DGfKhD1lAwACpQUAAlOSsVSTYpcz9z4jMB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "3"
+            },
+            {
+                "trigger": "emoji_captcha_source",
+                "text": "https://github.com/AbirHasan2005/Emoji-Captcha-Bot",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "4"
+            },
+            {
+                "trigger": "a12_dsb",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACISJiHP-t95ZMLW86iaCH8rlVHvnUzwACQwcAAmiP6FTJ3sJUoQf9fB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "5"
+            },
+            {
+                "trigger": "poco_f1_a12",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACISViHRE7YWl7A1VntfcbcbzPokQNvwACRQcAAmiP6FT4pCXOAlBmrR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "6"
+            },
+            {
+                "trigger": "style_3_a12",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACIWliHfQY6ZWd6Uvtb9KvNFQuu_BJ7AACtgQAAjJx8FRRtHARZefUPB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "7"
+            },
+            {
+                "trigger": "cc",
+                "text": "Live \u265b \u2122 4580390000460472|09|2023|358 CVV: Matched \ud83c\udf4c\n\nPH ip\n\nIsrael info",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "8"
+            },
+            {
+                "trigger": "ssc_pass",
+                "text": "Ssc\nPass :- `Ashit@123`\nregistered id :- `40004379201`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "9"
+            },
+            {
+                "trigger": "channel_mention",
+                "text": "user = f\"\"\"<a href=\"tg://openmessage?chat_id={user_id}\">{fname}</a>\"\"\"",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "10"
+            },
+            {
+                "trigger": "20kb_sign",
+                "text": null,
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CZkxs9wACIwliIm05K8zNyC_fsQ2GoJ2oD_5j_wACM7AxG0EcEFUSQd3n6mOc4QAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "11"
+            },
+            {
+                "trigger": "fde.ai",
+                "text": "FDE.AI Pro version for free.\n\nChangelog here: https://github.com/feravolt/FDE.AI-docs/releases/tag/12.5.1",
+                "btn_url": null,
+                "file_id": "BQACAgIAAx0CZkxs9wACMNxiUWA2SQRsGQ9lk7BhSyvetexMagACixAAArfVSUj8ErqN38Ey3h4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "12"
+            },
+            {
+                "trigger": "cgl",
+                "text": "Ssc\nPass :- `Ashit@123`\nregistered id :- `40004379201`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "13"
+            },
+            {
+                "trigger": "cgl_april_18",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACMgFiXZBijeqRTYqQqqq6GKyZDvu9wQAC1QUAAo3KyFYy5Zlbs_vijh4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "14"
+            },
+            {
+                "trigger": "contacts",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACNLFiauKfmoyGrL2MHiUJN99GoWnh1wAC5gQAAkhjWVf4suw4fYAu-R4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "15"
+            },
+            {
+                "trigger": "dsbfiles",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACNLRiauLDdzpcsF_q_Hv5OAi1DmKUcwAC5wQAAkhjWVcwRMdatZl2eR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "16"
+            },
+            {
+                "trigger": "meme.sh",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACNLdiauLytfIjnF88epVCC0ltWQ1taAAC6AQAAkhjWVf_LfQvVR0Cnx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "17"
+            },
+            {
+                "trigger": "photos",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACNLpiauMnK9kf55aAJFTJ8f-AkFfkjQAC6QQAAkhjWVd_pF7kS3AKHx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "18"
+            },
+            {
+                "trigger": "dfe",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACNL1iavQCecPPQFtCfUJ8nyV-HZ33XAACxwMAAtdfKVapjBpcPKJbFR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "19"
+            },
+            {
+                "trigger": "my_drive_access_token",
+                "text": "```ya29.a0AVA9y1twtqIWsdGxEC4z_UahyE9hBkXqRZArK8toUd13cG13HA0MlV-lG6SEk4pR9F5MquLKGSX_ULE5ePK4KX8lHh0_sLF19N3nsgSrXdWRTaXoHTwOdf0R_E1iTCNf6lYQsqfHPTu1ZrINPMrLPyX0BS2_```",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "21"
+            },
+            {
+                "trigger": "mts_admit_card",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACPdNi1mr3gXdJtY__PgkAAS0ubQcquBkAAnsEAAIdFbFWT7MKETKYxxceBA",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "22"
+            },
+            {
+                "trigger": "\"test",
+                "text": "test\"",
+                "btn_url": null,
+                "file_id": "CAACAgQAAx0CZkxs9wACQA5i4sShaMRj16p8X5i-ICI7RoOSygACfwADyPrsE4f-08cvJYWQHgQ",
+                "typee": 1,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "23"
+            },
+            {
+                "trigger": "movie",
+                "text": "TWILIGHT\n@TVmoviesHD @HD10TV",
+                "btn_url": null,
+                "file_id": "BAACAgQAAx0CZkxs9wACQW9i8BXOjapxvWT2faoswSPrKgzAKAACKRcAAqJSeVP-5DI4lkNSmh4E",
+                "typee": 4,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "24"
+            },
+            {
+                "trigger": "<b/>",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0EZkxs9wACQuFi9QcZrVF12RvqoREj2rPg92yy1QACLQgAAtp7qVeFBXxjP7ANJx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "26"
+            },
+            {
+                "trigger": "iphone_13_invoice",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACRqxjMARoOGwg2poSsWH_SVVdG5TGcAAC3QUAAjlcgFUl625_3T5oLB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "27"
+            },
+            {
+                "trigger": "ipad_invoice",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACR5BjOUVzNQwT_2nv9AILWdJM3F1JrwACiwgAAt0o0VVYyfZpwfiQ1h4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "28"
+            },
+            {
+                "trigger": "youtube++",
+                "text": "isme google account login ho rha",
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACSvRjaki3w3A8Wwyk1OYAAc7YDwFj4zAAAugIAAKqoAABVrhg-NuvUhqWHgQ",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "29"
+            },
+            {
+                "trigger": "stkr_bot",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACS1pjamWRPXSOstUdtqwHVftZReanXAACgwgAAhMvUFeW2dzjUouELR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "30"
+            },
+            {
+                "trigger": "ultron",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACSzljamWdGbzqjGAMjzyL7WBD9XoLSQACcQgAAhMvUFfztM3iKYJqFx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "30"
+            },
+            {
+                "trigger": "main.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACS4djamkN6fW7afH_FuptvjGK8O9auwAC2wcAAkv-WVcqDlDR3wNdBB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "31"
+            },
+            {
+                "trigger": "youtube_login",
+                "text": "https://www.icloud.com/shortcuts/cfcc068dfeab4d09a5370fb5126bb58e",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "32"
+            },
+            {
+                "trigger": "lens_effects",
+                "text": "https://youtube.com/shorts/yXvU6HDwAaM?feature=share",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "33"
+            },
+            {
+                "trigger": "apple_3.5",
+                "text": "Take a look at this APPLE White MMX62ZM/A Lightning to 3.5 mm Phone Converter on Flipkart\nhttps://dl.flipkart.com/s/2AmcFFNNNN",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "34"
+            },
+            {
+                "trigger": "bed_cert_1",
+                "text": null,
+                "btn_url": null,
+                "file_id": "AgACAgUAAx0CZkxs9wACUFFjiLGBtfxDhTNBJo3lyhrp1LinhwACtrQxGwLfSFRwM0rjnuov8QAIAQADAgADeQAHHgQ",
+                "typee": 2,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "35"
+            },
+            {
+                "trigger": "bonafied_certificate",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACXPFlOAa-4sWGWJZE4SSTOI6Ua7GrqgACHg4AAq_IwVV9cDc6RagjgR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "36"
+            },
+            {
+                "trigger": "omr_utils_latest",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYiZl2yelrQaI2uWMqoTZrC73dE7zgwACygwAAkzz4FY_wZ88l_fpox4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "36"
+            },
+            {
+                "trigger": "dsb_bot",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYkhl3Bjg1eYlXjEwVB6fXE-g0PBpFwACwQwAAkzz6FYDEqKNg0qhfB4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "37"
+            },
+            {
+                "trigger": "omr.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYk1l3BtUxtlDh6TtGSOfZ6aDg5GNoQACxAwAAkzz6FYRRrDkm0iXjR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "38"
+            },
+            {
+                "trigger": "omr1.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYlJl3Bth6UvaiVvkBHEn4oc6vwGsYgACxQwAAkzz6Fb7wK0zA1sUXx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "39"
+            },
+            {
+                "trigger": "omr2.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYldl3Bto-IfIXIJ6Z5jpDY-Kpu9qdQACxgwAAkzz6Faq5B7pszQCeh4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "40"
+            },
+            {
+                "trigger": "omr2",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYq9l8G5kHj_Hlhxn_vaocsKOqSnHSwACpRMAAj1XgFf3HuUhHzWWch4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "41"
+            },
+            {
+                "trigger": "dsb.zip",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYvZl9xxjFI3pye9A2mRbqTlOrvr8BAACfg4AAhcGuFf8k1Qk0PqGwx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "42"
+            },
+            {
+                "trigger": "march_31_dsb",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACYx1mB89l13QDpJIbN99gvZmG6MeXMgACbg0AAjuaOFRT7o1xLUgr9h4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "43"
+            },
+            {
+                "trigger": "latest_files",
+                "text": "https://t.me/c/1716284663/25373",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "44"
+            },
+            {
+                "trigger": "latest_stkr.py",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACZVdmDZeo-WkHJDF4bQ06Z8siXEDyxQACbA8AAm3CaVSecXxAQE4YAh4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "45"
+            },
+            {
+                "trigger": "latest_stkr",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACZnFmEFwgfR8Sbi60qQKpZncdzGrm_AACSQ8AAkdXgVTItWcGQFsTfx4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "46"
+            },
+            {
+                "trigger": "latest_utils",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACZnZmEFwnJRy7RZIbJKfV534w8x282gACSg8AAkdXgVQ5vdIwVMFNZR4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "47"
+            },
+            {
+                "trigger": "api",
+                "text": "@dephendor\nApi id :`2613713`**\nApi hash:**` f615f10d7410ce9ba757f211cf1fb84b\n`\n@Ashit10 \nApi id : `2736498`**\nApi hash : **`d47c7c0c33c194749aed03acea1d8a34`",
+                "btn_url": null,
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "48"
+            },
+            {
+                "trigger": "stkr",
+                "text": null,
+                "btn_url": null,
+                "file_id": "BQACAgUAAx0CZkxs9wACaKVmL3rjaPN6WzWFXvbDDJ0xO80apwACHRIAAvileVUaypHIVATD-x4E",
+                "typee": 3,
+                "disable_link_preview": true,
+                "admins_only": false,
+                "is_protected": false,
+                "notecode": "49"
+            }
+        ],
+        "on_off": {
+            "antichannelpin": true,
+            "antiservice": true,
+            "captcha": true,
+            "captcharules": false,
+            "cleanwelcome": true,
+            "captchakick": true,
+            "lang_detect": false,
+            "private_notes": false,
+            "privaterules": false,
+            "noteshash": true
+        },
+        "pass_words": [],
+        "rules": "- English/Bengali/Hindi only.\n Respect everyone.\n- No promotion of channels.(only friends and Admins can)\n- No advertising here.\n- You can Request Font/wallpaper\n- Do check channels",
+        "warn_action": "kick",
+        "welcome": [
+            {
+                "text": "Hey {mention} !\nWelcome to {group}.\n\n--Read pinned message before spamming!--\n",
+                "btn_url": "[Pinned message](buttonurl://https://t.me/tv_series_request/423)",
+                "file_id": null,
+                "typee": 0,
+                "disable_link_preview": true
+            }
+        ],
+        "2nd_welcome": [
+            {
+                "text": null,
+                "btn_url": null,
+                "file_id": "CAACAgUAAx0CZkxs9wACJMJiJ5wHhPPKQAGkmGn-sNSRkZydzgACSgIAAlisKFbgCG4hdy06TR4E",
+                "typee": 1,
+                "disable_link_preview": true
+            }
+        ]
+    }
+}
