@@ -1,3 +1,6 @@
+from flask import Flask, request
+app = Flask(__name__)
+
 import os
 import asyncio
 from . import *
@@ -7,6 +10,7 @@ from group_bot.modules.helpers.welcome_sender import sj
 
 def main():
     print("starting... ")
+    threading.Thread(target=run_flask).start()
     bot.start()
     try:
         with open("re.txt", "r") as red:
