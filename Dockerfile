@@ -1,4 +1,5 @@
-FROM python:3.10
+FROM python:3.9-slim
+
 
 WORKDIR /app
 
@@ -12,8 +13,9 @@ RUN apt-get update && \
     apt-get install -y zip unzip libgl1 ffmpeg && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y build-essential
 
 # Copy the rest of the application
 COPY . .
 
-CMD ["python3", "-m", "group_bot"]
+CMD ["python", "-m", "group_bot"]
